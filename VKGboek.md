@@ -1,10 +1,21 @@
+
+<!--
+TODO: 
+* Complete colophone
+* proper index
+* reference 
+** ref links - what are suppose to link are in fact images 
+
+
+-->
 ![](media/image1.png)
 
-# The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
+**The Volkskrant Building: Manufacturing Difference in Amsterdam’s
+Creative City**
 
-# Boukje Cnossen & Sebastian Olma 
+**Boukje Cnossen & Sebastian Olma**
 
-## Colophon
+# Colophon
 
 Authors: Boukje Cnossen and Sebastian Olma
 
@@ -49,93 +60,9 @@ ISBN (print)
 
 ISBN (ePub)
 
-## Contents 
-
-### Introduction: A Story of Transformation
-
-The Volkskrant Building and the Creative City
-
-The City from Below
-
-Creative Catch 22
-
-### Origins: Spring 2007 and Before
-
-Places of Collective Self-Recognition
-
-'Breeding Places'
-
-The Battle for the City
-
-'Grutters' and Alternative Economies
-
-From Attacking ‘The System’ to Protecting Subculture
-
-The Battle Continues
-
-### Cash-Stripped Bohemia: 2007 – 2009
-
-Good Vibrations
-
-Mixing and Matching People
-
-Spending Cash
-
-The First Outbursts of Creativity
-
-The Flip Side of Openness
-
-Giving in to Security
-
-Onwards & Upwards
-
-### Networks of Creative Production: 2009 - 2013
-
-No Formula for Success
-
-Canvas: Parties and a Great View
-
-The Business of Using Space
-
-DIY on the Fifth Floor
-
-Hyper-‘Grutters’
-
-Transformers
-
-### Enter the Volkshotel: 2013 and onwards
-
-Big Money
-
-Sounds of Protest
-
-Moving Out
-
-The Volkshotel and its Legacy
-
-### Conclusion: Failing Forward 
-
-The Tenants
-
-The City
-
-Urban Resort's Practices
-
-Performative Defiance
-
-Citizenship and Social Infrastructure
-
-Craftsmanship
-
-Virtuosity
-
-Conclusion
-
-### Reference List
 
 
-
-## Acknowledgements 
+# Acknowledgements
 
 First and foremost we would like to thank Urban Resort for their support
 in realizing this book. It was a great joy working with them. Our
@@ -160,9 +87,7 @@ publication.
 former Volkskrant building, built and painted by the tenants of this
 floor. Picture: Tanja Sihvonen.](media/image2.jpeg)
 
-
-
-## Introduction: A Story of Transformation
+# Introduction: A Story of Transformation
 
 This book tells the story of the Volkskrant building and how it became
 an ‘art factory'. ‘Art factory’ is a slightly inspired translation of
@@ -220,7 +145,7 @@ the transformation of dreams into reality. This account is intended as a
 document of critical contemporary history and offers insights into the
 workings of the creative economy.
 
-### The Volkskrant Building and the Creative City
+## The Volkskrant Building and the Creative City
 
 The transformation of the former newspaper office into an art factory
 began in 2007. At this moment, the idea of the 'creative city' was
@@ -307,7 +232,7 @@ order to understand the full implication of the art factory, we must not
 overlook the political dimension of those things happening within the
 building.
 
-### The City from Below
+## The City from Below
 
 When politicians and policy makers talk about the importance of creative
 spaces, they usually talk about things like entrepreneurship, technology
@@ -357,7 +282,7 @@ period. As we will see in the first chapter of this book, this is the
 culture out of which the Volkskrant building emerged and this is also
 the culture that forms the foundation of Amsterdam as a creative city.
 
-### Creative Catch 22
+## Creative Catch 22
 
 The Volkskrant building was realized by a handful of ex-squatters who,
 over the course of the project and with the support of the city, turned
@@ -441,7 +366,7 @@ this book, it is precisely in deciphering the meaning of the adjective
 'interesting' that we find clues about the value of places like the
 Volkskrant building.
 
-## [Chapter 1] Origins: Spring 2007 and Before
+# Origins: Spring 2007 and Before
 
 ![](media/image3.jpeg)Figure 2. One of the remaining squats in the
 Spuistraat, situated in the city center of Amsterdam.
@@ -472,8 +397,7 @@ gets to that point, we should understand how rebellious squatters
 started to rub shoulders with officials long before that moment in March
 2007 on the Wibautstraat.
 
-
-### Places of Collective Self-Recognition
+## Places of Collective Self-Recognition
 
 In his essay observing the legalized squats on the Spuistraat in
 Amsterdam, the American geographer Edward Soja argued that, in
@@ -509,7 +433,7 @@ are a part, protested against this, but to no avail. Now, as a way of
 making it up to them, the city government is giving them a chance to
 show what they were capable of.
 
-### ‘Breeding Places’
+## ‘Breeding Places’
 
 The city has asked them to set up a so-called *broedplaats,* a term
 idiosyncratic to the Amsterdam context at that time. A *broedplaats* is
@@ -554,7 +478,7 @@ managerial skill needed to run a place that is not a squat, their desire
 to make it happen is unstoppable. In a sense, they still look at the
 city the way squatters do: as a battle field.
 
-### The Battle for the City
+## The Battle for the City
 
 As in many other cities, the Amsterdam squatters movement emerged in the
 70s out of the need for affordable housing. Although political and
@@ -655,7 +579,7 @@ knew it was collapsing. Amsterdam was practically a third world city.
 Back then, at the beginning of the 1980s, nobody wanted to invest a
 penny in the city’.
 
-### 'Grutters' and Alternative Economies
+## 'Grutters' and Alternative Economies
 
 Although squats represented a different vision of reality, it was still
 not clear what that reality was supposed to look like. This changed when
@@ -735,9 +659,7 @@ shape each other as well. The alternative scene constantly had to
 reinvent itself according to current political and economic
 circumstances.
 
-
-
-### From Attacking ‘The System’ to Protecting Subculture
+## From Attacking ‘The System’ to Protecting Subculture
 
 To summarize, the Amsterdam squatters movement first fought for their
 own places of self-recognition, to return to Soja's phrasing. Via the
@@ -837,7 +759,7 @@ caused quite the shock when the newly installed art factory policy and
 accompanying funds were not used to prevent the disappearance of the
 already existing places that met the requirements of the new policy.
 
-### The Battle Continues
+## The Battle Continues
 
 Although beautiful plans and generous budgets were bringing officials
 and squatters closer together, this was not the end of painful conflicts
@@ -941,7 +863,7 @@ hammocks were on the list of possible uses. Judging from these ideas, it
 is clear that they had no idea how sought-after every spot of the
 building would become.
 
-## [Chapter 2] Cash-Stripped Bohemia: 2007-2009
+# Cash-Stripped Bohemia: 2007-2009
 
 ![Figure 2. People interested in renting a studio come listen to Jaap
 Draaisma during an open night.](media/image4.jpeg)
@@ -1032,7 +954,7 @@ into the present, and said that in order to rent an area or floor in the
 Volkskrant building, you needed to be a group and you needed to have a
 clear idea of what you want to achieve here with that group’.
 
-### Good Vibrations
+## Good Vibrations
 
 Throughout the summer of 2007, hundreds of strangers walked into the
 building, with Urban Resort and Kaos Projects welcoming all of them.
@@ -1088,7 +1010,7 @@ experience in setting up buildings under our belt’, he adds. Apparently,
 the spirit of the 80s had survived, but its organizational form had to
 be re-invented.
 
-### Mixing & Matching People
+## Mixing & Matching People
 
 Throughout the summer of 2007, so-called ‘dating nights’ were organized
 in the Volkskrant with the aim to introduce interested individuals to
@@ -1204,9 +1126,9 @@ this point, not many things had changed since the journalists had moved
 out. ‘Even those small containers you keep the sandwich meats in were
 still there’, one of the audience members recalled.
 
-![Figure 3. The staff restaurant on the top floor as
-photographed during one of Urban Resort's exploratory visits to the
-building in 2007.](media/image5.jpeg)
+![Figure 3. The staff restaurant on the top floor as photographed during
+one of Urban Resort's exploratory visits to the building in
+2007.](media/image5.jpeg)
 
 Nevertheless, many organizational issues were pending. The two main
 issues were the lack of manpower on the side of Urban Resort and the
@@ -1238,7 +1160,7 @@ Jelmer participated in this. ‘We built all those walls out of plaster in
 a week. It was quite impressive to see how much we could achieve
 together’, he says.
 
-### Spending Cash
+## Spending Cash
 
 While the working spaces were coming together, there was an increasing
 financial problem. In the beginning, Urban Resort aimed to charge 80% of
@@ -1288,7 +1210,7 @@ curiosity’. Six of these ‘car washes’ happened; most of them during
 office hours and some of them at night to catch those who had been
 avoiding them.
 
-### The First Outbursts of Creativity
+## The First Outbursts of Creativity
 
 And in spite of the continuing financial distress, the Volkskrant
 building quickly became a place for intense creative production and
@@ -1437,8 +1359,7 @@ club and restaurant on the top floor, which would attract visitors from
 as far as New York. We delve into the role the venue played in the
 success of the Volkskrant building in more detail in the next chapter.
 
-
-### The Flip Side of Openness
+## The Flip Side of Openness
 
 Looking back at the first two and a half years of the Volkskrant
 building, we can conclude that in some respects, the building was indeed
@@ -1484,10 +1405,10 @@ later, we came to learn he had committed suicide. We felt a kind of
 awkward responsibility there, since it turned out we had somehow taken
 care of him collectively, but had not *really* taken care of him’.
 
-### Giving in to Security
+## Giving in to Security
 
-![Figure 4. Announcement warning against theft in
-one of the hallways of the buildings. Picture: Tanja Sihvonen.](media/image6.jpeg)
+![Figure 4. Announcement warning against theft in one of the hallways of
+the buildings. Picture: Tanja Sihvonen.](media/image6.jpeg)
 
 The openness that characterized the early days of the Volkskrant
 building was not just an openness towards all kinds of people. It was
@@ -1531,7 +1452,7 @@ each other. Fatuous Farah: ‘We had all our computers stolen. Somehow,
 after those incidents, the trust was gone. People started to mind only
 their own business’.
 
-### Onwards & Upwards
+## Onwards & Upwards
 
 In spite of its initial hiccups, the Volkskrant building remained a
 place that attracted attention. So much so, that the city council
@@ -1564,11 +1485,12 @@ alternative about that, it was just smart’. But it was not until several
 years of the art factory's first steps towards fame, that it would
 become clear exactly how smart their choice for this building had been.
 
-## [Chapter 3] Networks of Creative Production: 2009-2013
+# Networks of Creative Production: 2009-2013
 
-![Figure 5. During the Transvormers Festival, one of the tenants presented
-a project in which she invited visitors to help her bring the model
-building she had built to life. Picture: Bambos Demetriou.](media/image7.jpeg)
+![Figure 5. During the Transvormers Festival, one of the tenants
+presented a project in which she invited visitors to help her bring the
+model building she had built to life. Picture: Bambos
+Demetriou.](media/image7.jpeg)
 
 Urban Resort did their best to match the squatters' ethos of autonomy
 with the wishes of the new creative class and to play by the rules and
@@ -1585,7 +1507,7 @@ Bureau, put it in the following words: ‘The start of the Volkskrant
 building was way too ideological. Urban Resort copied their experiences
 from the 80s into 2007’.
 
-### No Formula for Success
+## No Formula for Success
 
 Doreen Wittenbols, who works at Urban Resort's financial department, but
 also used to live at the Plantage Doklaan, one of Amsterdam's legalized
@@ -1668,10 +1590,10 @@ undoubtedly one of the biggest contributors to the art factory's
 success. So much so, that people were surprised to find out the building
 was something else too.
 
-### Canvas: Parties and a Great View
+## Canvas: Parties and a Great View
 
-![Figure 6. Canvas as it looked throughout 2012 and
-2013. Picture: Tanja Sihvonen.](media/image8.jpeg)
+![Figure 6. Canvas as it looked throughout 2012 and 2013. Picture: Tanja
+Sihvonen.](media/image8.jpeg)
 
 As was the case with many elements of the Volkskrant building, Canvas
 was a result of chance combined with some initial good selection. Thijs
@@ -1752,7 +1674,7 @@ Jasper Grootveld, which was launched at Canvas, and when Robert passed
 away in 2009, the after party of the funeral took place at the
 Volkskrant building.
 
-### The Business of Using Space
+## The Business of Using Space
 
 The seven remaining floors, together about 10,000 square meters of
 usable surface, was comprised of the studios and offices of roughly
@@ -1852,7 +1774,7 @@ sound of a sewing machine coming from somewhere in the building when she
 has to work on the weekend to keep a deadline. 'To me, that is the
 ultimate comfort; to know that other people are working too'.
 
-### DIY on the Fifth Floor
+## DIY on the Fifth Floor
 
 Despite its suboptimal architectural setup, and the reluctance of Urban
 Resort to manage communities, many people did meet by chance and
@@ -1992,7 +1914,7 @@ outside of the building', recalls Laetitia.
 Laetitia quickly got her own studio space and has continued to focus on
 making henna tattoos ever since.
 
-### Hyper-‘Grutters’
+## Hyper-‘Grutters’
 
 A case in which actual businesses were incubated takes shape on the part
 of the second floor that housed a mixture of small startup companies and
@@ -2085,7 +2007,7 @@ wonder to what extent tenants feel affinity with what we stand for as an
 organization. Perhaps it is not possible to establish a shared identity
 that includes both us as an organization, and the community of tenants'.
 
-### Transformers
+## Transformers
 
 If there ever was an instance where the top-down efforts of Urban Resort
 and tenants' too-cool-for-school attitude of 'letting things happen'
@@ -2133,10 +2055,10 @@ startup community that could grow stronger and larger not only due to
 their own hard work but also because of Urban Resort's flexibility in
 facilitating them.
 
-## [Chapter 4] Enter the Volkshotel – 2013 and Onwards
+# Enter the Volkshotel – 2013 and Onwards
 
-![Figure 7. The building on the night of its opening
-as the Volkshotel. Picture: Raymond van Mil.](media/image9.jpeg)
+![Figure 7. The building on the night of its opening as the Volkshotel.
+Picture: Raymond van Mil.](media/image9.jpeg)
 
 If the previous chapters have shown us anything, it is that the
 building's buzz was an odd combination of a bit of good old squatting
@@ -2183,7 +2105,7 @@ still owning the building, which had changed its name from Het Oosten to
 Stadgenoot, inquiring whether the building was for sale. A few weeks
 later Stadgenoot called him and said that it indeed was.
 
-### Big Money
+## Big Money
 
 As it happened, Urban Resort was also in the market to buy. Since the
 beginning of the Volkskrant building project, it had been their goal to
@@ -2324,7 +2246,7 @@ Although the smaller art factory in the back will adhere to all
 standards set by the Art Factory Bureau, it no longer receives funding
 from the city government.
 
-### Sounds of Protest
+## Sounds of Protest
 
 So Urban Resort had agreed to help the adventurous entrepreneur and his
 right-wing investor in getting tenants to give up their workspaces
@@ -2462,7 +2384,7 @@ commercial endeavor. And as it turned out, the hotel's management would
 later go on to commission certain art factory residents to design the
 interior of some of the more exclusive rooms of the Volkshotel.
 
-### Moving Out
+## Moving Out
 
 So in November 2012, Job and Urban Resort decided that tenants who had
 agreed to leave would have to do so before the first of July 2013. The
@@ -2535,10 +2457,10 @@ smoking marijuana in the hallways, and will an artist in-between
 residencies still feel free enough to sleep in her studio for a short
 time? Only time will tell.
 
-### The Volkshotel and Its Legacy
+## The Volkshotel and Its Legacy
 
-![Figure 8. The opening party of the Volkshotel.
-Picture: Louk Heimans.](media/image10.jpeg)
+![Figure 8. The opening party of the Volkshotel. Picture: Louk
+Heimans.](media/image10.jpeg)
 
 At the official opening of the Volkshotel on June 27, 2014, Urban Resort
 and Cor van Zadelhoff shared a stage. Jaap Draaisma decided not to let
@@ -2571,7 +2493,7 @@ character of the Volkshotel will be rather different from the old
 Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
 
-## [Chapter 5] Conclusion: Failing Forward
+# Conclusion: Failing Forward
 
 ![](media/image11.jpeg)Figure 9. One of the empty studios during the
 period that most art factory tenants left the building. The sign of
@@ -2605,7 +2527,7 @@ ground for timely and participative forms of citizenship, especially in
 light of the disciplined modes of moving through urban space we are
 currently faced with.
 
-### The Tenants
+## The Tenants
 
 From the beginning, nobody expected the process of transforming the old
 Volkskrant building into an art factory to be smooth sailing. Yet, in
@@ -2664,7 +2586,7 @@ have at least the potential to bring about collective practices acting
 as an antidote against the individualizing tendencies of neoliberal work
 conditions.
 
-### The City
+## The City
 
 There is no doubt that the Volkskrant building as art factory did a
 great service to the city of Amsterdam. And this is not only reflected
@@ -2720,7 +2642,7 @@ concessions—creative producers are going to focus on their immediate
 professional activities. Not because they are anti-social, but simply
 because they already have enough on their plates.
 
-### Urban Resort's Practices
+## Urban Resort's Practices
 
 The practices of Urban Resort can be seen as a practical critique of
 neoliberal capitalism, one that criticizes the existing system by
@@ -2773,7 +2695,7 @@ this begs the question: what exactly will they do then? What are they
 capable of? If there is suddenly room for more than just renting out
 rooms, they will have to show what they got.
 
-### Performative Defiance
+## Performative Defiance
 
 The advantage of Urban Resort’s strategy of *performative defiance* is
 that they actually have the opportunity to find out. Even if the
@@ -2820,8 +2742,7 @@ take a step back for a moment and reflect on the changing relationship
 between citizenship and infrastructure. This is what we are going to do
 for the remainder of this concluding chapter.
 
-
-### Citizenship and Social Infrastructure
+## Citizenship and Social Infrastructure
 
 The discipline of sociology has shown, since its very beginnings, that
 for a society to function, what is needed is an infrastructure in which
@@ -2890,7 +2811,7 @@ force the becoming subject into a ‘mold’ but in the process of molding,
 it also transmits the necessary equipment for emancipation by
 self-modulation.
 
-### Craftsmanship
+## Craftsmanship
 
 What we can learn from both Sloterdijk and Foucault is that a meaningful
 practice of citizenship is predicated on a functioning network of social
@@ -2949,7 +2870,7 @@ office—if such a thing ever existed. It is a new kind of virtuosity. And
 this of course has implications for the contemporary practice of
 citizenship.
 
-### Virtuosity
+## Virtuosity
 
 The Italian philosopher Paolo Virno recognizes this clearly when he
 refers to the emergence of a new and very different kind of virtuosity
@@ -3016,7 +2937,7 @@ social spheres has become obsolete. His breeding ground and habitat is a
 plane of political-economic topology, best described as a practical
 Mobius strip where one is always on both sides at the same time.
 
-### Conclusion
+## Conclusion
 
 The good news is that all over the global metropolis, one can observe
 experiments in building such topologies where the multitudinous powers
@@ -3058,8 +2979,7 @@ answer to this question, but it has offered a trajectory of *failing
 forward* which may provide a basis for those courageous enough to take
 up the task themselves.
 
-
-## Reference List
+# Reference List
 
 Abrahamse, Jaap Evert et al. *Spel + Tegenspel: supervisie aan de
 IJ-oevers*, Bussum: Toth, 2000.
@@ -3115,8 +3035,7 @@ Mondriaan Fonds, 2013.
 
 Griffioen, Roel. 'Hoe de broedplaats een surrogaat voor echte stedelijke
 ontwikkeling werd', *De Correspondent*, September 2014,
-<https://decorrespondent.nl/1713/Hoe-de-broedplaats-een-excuus-voor->[
-echte-stedelijke-ontwikkeling-werd/130465691004-fa40aeca](https://decorrespondent.nl/1713/Hoe-de-broedplaats-een-excuus-voor-echte-stedelijke-ontwikkeling-werd/130465691004-fa40aeca).
+<https://decorrespondent.nl/1713/Hoe-de-broedplaats-een-excuus-voor-echte-stedelijke-ontwikkeling-werd/130465691004-fa40aeca>
 
 Heingartner, Douglas. 'Beast in Show', *Time Out Amsterdam*, 1-31
 October 2008.
@@ -3126,7 +3045,7 @@ Three Cultural Industries*, New York: Routledge, 2011.
 
 Nederpunk.punt.nl. ‘Krakers en punks deel 2 (panden in Amsterdam)’, 26
 November 2005,
-<http://nederpunk.punt.nl/content/2005/11/krakers-en-punks-deel-2->[panden-in-amsterdam](http://nederpunk.punt.nl/content/2005/11/krakers-en-punks-deel-2-panden-in-amsterdam).
+<http://nederpunk.punt.nl/content/2005/11/krakers-en-punks-deel-2-panden-in-amsterdam>
 
 'Kunstspeeltjes van dode hond en kat', *Het Parool*, 24 October 2008.
 
@@ -3162,14 +3081,14 @@ Zukunft der Arbeit*, Berlin: Blumbar, 2011.
 
 Fred Triep, ‘Openingspeech meeting Urban Resort in old VK building’,
 *YouTube*, 3 June 2007,
-<https://www.youtube.com/watch>[?v=XV5yTkt-svQ](https://www.youtube.com/watch?v=XV5yTkt-svQ).
+<https://www.youtube.com/watch?v=XV5yTkt-svQ>.
 
 Plek in de Stad, ‘Aynouk Tan – Spuistraat’, *AT5*, 8 juli 2014,
 <http://www.at5.nl/tv/plek-in-de-stad/aflevering/15777>.
 
 Fred Triep, ‘Presentation of the International Amsterdam Group 1’,
 *YouTube*, 1 June 2007,
-<http://www.youtube.com/watch?v=Wyv-n_J->[YE8](http://www.youtube.com/watch?v=Wyv-n_J-YE8).
+<http://www.youtube.com/watch?v=Wyv-n_J-YE8>.
 
 Reich, Robert. *The Work of Nations*, New York: Vintage Books, 1992.
 
@@ -3192,7 +3111,7 @@ Urban Form,* Amsterdam: Het Spinhuis, 2000.
 
 Stam, Jaap. 'Wij zijn een makelaar voor tegendraadse types', *De
 Volkskrant*, 16 February 2013,
-<http://www.volkskrant.nl/vk/nl/2844/Archief/archief/article/detail/3394765/2013/01/16/Wij->[zijn-een-makelaar-voor-tegendraadse-types.dhtml](http://www.volkskrant.nl/vk/nl/2844/Archief/archief/article/detail/3394765/2013/01/16/Wij-zijn-een-makelaar-voor-tegendraadse-types.dhtml).
+<http://www.volkskrant.nl/vk/nl/2844/Archief/archief/article/detail/3394765/2013/01/16/Wij-zijn-een-makelaar-voor-tegendraadse-types.dhtml>.
 
 Verseput, Steven. 'Broedplaatsen voor zakelijke vrijdenkers', *NRC
 Handelsblad*, 6 March 2013.
@@ -3212,25 +3131,24 @@ Weickgenant, Joel. 'A Different Kind of Spin, After the News Has Gone',
 Zoelen, Bart van. 'Niet de zoveelste atelierbunker: Kraakveteranen huren
 en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
 
-
-[^1]:  Jamie Peck, 'Recreative City: Amsterdam, Vehicular Ideas and the
+[^1]: Jamie Peck, 'Recreative City: Amsterdam, Vehicular Ideas and the
     Adaptive Spaces of Creativity Policy', *Journal of Urban and
     Regional Research* 36:3 (2012): 462-485.
 
-[^2]:  Charles Landry, *The Creative City: A Toolkit for Urban
+[^2]: Charles Landry, *The Creative City: A Toolkit for Urban
     Innovators*, London: Earthscan, 2008. Ned Rossiter and Geert Lovink,
     *MyCreativity Reader: A Critique of Creative Industries*, Amsterdam:
     Institute of Network Cultures, 2007.
 
-[^3]:  Richard Florida, *The Rise of The Creative Class: And How It's
+[^3]: Richard Florida, *The Rise of The Creative Class: And How It's
     Transforming Work, Leisure, Community, and Everyday Life*, New York:
     Basic Books, 2002.
 
-[^4]:  Roel Griffioen, 'Hoe de broedplaats een surrogaat voor echte
+[^4]: Roel Griffioen, 'Hoe de broedplaats een surrogaat voor echte
     stedelijke ontwikkeling werd', September 2014,
-    [https://decorrespondent.nl/1713/Hoe-de-broedplaats-een-excuus-voor-echte-stedelijke-ontwikkeling-werd/130465691004-fa40aeca](numbering.xml).
+    <https://decorrespondent.nl/1713/Hoe-de-broedplaats-een-excuus-voor-echte-stedelijke-ontwikkeling-werd/130465691004-fa40aeca>.
 
-[^5]:  Edward Soja, 'The Stimulus of a Little Confusion', in Léon Deben,
+[^5]: Edward Soja, 'The Stimulus of a Little Confusion', in Léon Deben,
     Willem Heinemeijer, Dick van der Vaart (eds) *Understanding
     Amsterdam: Essays on Economic Vitality, City Life and Urban Form*,
     Amsterdam: Het Spinhuis. 2000.
@@ -3239,94 +3157,93 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
 
 [^7]: Soja, 'The Stimulus of a Little Confusion', p. 119.
 
-[^8]:  Soja, 'The Stimulus of a Little Confusion', p. 119.
+[^8]: Soja, 'The Stimulus of a Little Confusion', p. 119.
 
-[^9]:  Eric Duivenvoorden, *Een voet tussen de deur: geschiedenis van de
+[^9]: Eric Duivenvoorden, *Een voet tussen de deur: geschiedenis van de
     kraakbeweging [1964-1999]*, Amsterdam: De Arbeiderspers, 2000. Eric
     Duivenvoorden, *Het Kroningsoproer: 30 april 1980, reconstructie van
     een historisch keerpunt*, Amsterdam: De Arbeiderspers, 2005.
 
-[^10]:  Bilwet, *Bewegingsleer*, Amsterdam: Ravijn, 1990, p. 37,
+[^10]: Bilwet, *Bewegingsleer*, Amsterdam: Ravijn, 1990, p. 37,
     translation by the authors.
 
-[^11]:  Bilwet, *Bewegingsleer*, p. 37.
+[^11]: Bilwet, *Bewegingsleer*, p. 37.
 
-[^12]:  For more information on Provo see the following books: Roel van
+[^12]: For more information on Provo see the following books: Roel van
     Duyn, *Provo: De geschiedenis van de provotarische beweging
     1965-1967*, Amsterdam: Meulenhoff, 1985; Eric Duivenvoorden, *Magiër
     van een nieuwe tijd: het leven van Jasper Grootveld*, Amsterdam:
     Arbeiderspers, 2009.
 
-[^13]:  Bilwet, *Bewegingsleer*, p. 40, translation by the authors.
+[^13]: Bilwet, *Bewegingsleer*, p. 40, translation by the authors.
 
-[^14]:  Nederpunk.punt.nl, ‘Krakers en punks deel 2 (panden in
+[^14]: Nederpunk.punt.nl, ‘Krakers en punks deel 2 (panden in
     Amsterdam)’, 26 November 2005,
-    [http://nederpunk.punt.nl/content/2005/11/krakers-en-punks-deel-2-panden-in-amsterdam](styles.xml).
+    <http://nederpunk.punt.nl/content/2005/11/krakers-en-punks-deel-2-panden-in-amsterdam>.
 
-[^15]:  The 'dark side' of the squatters movement has been captured
+[^15]: The 'dark side' of the squatters movement has been captured
     extensively in the documentary *De stad was van ons* (dir. Joost
     Seelen and Eric Duivenvoorden, 1996), downloadable at
-    [https://www.youtube.com/watch?v=dfPKwFB6WpY](stylesWithEffects.xml).
+    <https://www.youtube.com/watch?v=dfPKwFB6WpY>.
 
-[^16]:  Jaap Stam, 'Wij zijn een makelaar voor tegendraadse types', *De
+[^16]: Jaap Stam, 'Wij zijn een makelaar voor tegendraadse types', *De
     Volkskrant*, 16 February 2013,
-    h[ttp://www.volkskrant.nl/vk/nl/2844/Archief/archief/article/detail/3394765/2013/01/16/Wij-zijn-een-makelaar-voor-tegendraadse-types.dhtml](settings.xml).
+    <http://www.volkskrant.nl/vk/nl/2844/Archief/archief/article/detail/3394765/2013/01/16/Wij-zijn-een-makelaar-voor-tegendraadse-types.dhtml>.
 
-[^17]:  Jaap Evert Abrahamse et al, *Spel + Tegenspel: supervisie aan de
+[^17]: Jaap Evert Abrahamse et al, *Spel + Tegenspel: supervisie aan de
     IJ-oevers*, Bussum: Toth, 2000.
 
-[^18]:  'Geen cultuur zonder subcultuur',
-    [http://bongersite.nl/broedplaats401.html](webSettings.xml).
+[^18]: 'Geen cultuur zonder subcultuur',
+    <http://bongersite.nl/broedplaats401.html>.
 
-[^19]:  'Geen cultuur zonder subcultuur', translation by the authors.
+[^19]: 'Geen cultuur zonder subcultuur', translation by the authors.
 
-[^20]:  Bart van Zoelen, 'Niet de zoveelste atelierbunker:
-    Kraakveteranen huren en verhuren het Volkskrant-gebouw', *Het
-    Parool*, 2 June 2007.
+[^20]: Bart van Zoelen, 'Niet de zoveelste atelierbunker: Kraakveteranen
+    huren en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
 
-[^21]:  Fred Triep, ‘Openingspeech meeting Urban Resort in old VK
+[^21]: Fred Triep, ‘Openingspeech meeting Urban Resort in old VK
     building’, *YouTube*, 3 June 2007,
-    [http://www.youtube.com/watch?v=XV5yTkt-svQ](footnotes.xml).
+    <http://www.youtube.com/watch?v=XV5yTkt-svQ>.
 
-[^22]:  Fred Triep, ‘Presentation of the International Amsterdam Group
+[^22]: Fred Triep, ‘Presentation of the International Amsterdam Group
     1’, *YouTube*, 1 June 2007,
-    [http://www.youtube.com/watch?v=Wyv-n\_J-YE8](endnotes.xml).
+    <http://www.youtube.com/watch?v=Wyv-n\_J-YE8>.
 
-[^23]:  Fred Triep, ‘Presentation of the International Amsterdam Group
+[^23]: Fred Triep, ‘Presentation of the International Amsterdam Group
     1’.
 
-[^24]:  Saskia Sassen, *The Global City: New York, London, Tokyo*,
+[^24]: Saskia Sassen, *The Global City: New York, London, Tokyo*,
     Princeton: Princeton University Press, 2013.
 
-[^25]:  Manfred Ertel, 'Amsterdam', *Der Spiegel*, 20 August 2007*.*
+[^25]: Manfred Ertel, 'Amsterdam', *Der Spiegel*, 20 August 2007*.*
 
-[^26]:  Ertel, 'Amsterdam'.
+[^26]: Ertel, 'Amsterdam'.
 
-[^27]:  Liedewij Loorbach, 'Gaan!', *Het Parool*, 22 March 2008.
+[^27]: Liedewij Loorbach, 'Gaan!', *Het Parool*, 22 March 2008.
 
-[^28]:  Judith Laanen, 'La Melodia: “Bam! En iedereen is om”', *LiveXS*,
+[^28]: Judith Laanen, 'La Melodia: “Bam! En iedereen is om”', *LiveXS*,
     March 2008.
 
-[^29]:  Douglas Heingartner, 'Beast in Show', *Time Out Amsterdam*,
+[^29]: Douglas Heingartner, 'Beast in Show', *Time Out Amsterdam*,
     October 2008.
 
-[^30]:  'Kunstspeeltjes van dode hond en kat', *Het Parool*, 24 October
+[^30]: 'Kunstspeeltjes van dode hond en kat', *Het Parool*, 24 October
     2008.
 
-[^31]:  Liedewij Loorbach, 'Muziek maken met koffieschotels', *Het
+[^31]: Liedewij Loorbach, 'Muziek maken met koffieschotels', *Het
     Parool*, 7 May 2009.
 
-[^32]:  Bureaubroedplaatsen, ‘Volkskrant Gebouw aflevering 2:
+[^32]: Bureaubroedplaatsen, ‘Volkskrant Gebouw aflevering 2:
     Beveiligen’, *YouTube*, 19 April 2012,
-    [http://www.youtube.com/watch?v=UYkR0EdZK3k](media/image1.png).
+    <http://www.youtube.com/watch?v=UYkR0EdZK3k>.
 
-[^33]:  Bas van de Geyn and Jaap Draaisma, 'The Embrace of Amsterdam's
+[^33]: Bas van de Geyn and Jaap Draaisma, 'The Embrace of Amsterdam's
     Creative Breeding Ground', in Libby Porter and Kate Shaw (eds)
     *Whose Urban Renaissance? An International Comparison of Urban
     Regeneration Strategies*, London: Routledge, 2009.
 
-[^34]:  Plek in de Stad, ‘Aynouk Tan – Spuistraat’, *AT5*, 8 juli 2014,
-    [http://www.at5.nl/tv/plek-in-de-stad/aflevering/15777](media/image2.jpeg).
+[^34]: Plek in de Stad, ‘Aynouk Tan – Spuistraat’, *AT5*, 8 juli 2014,
+    <http://www.at5.nl/tv/plek-in-de-stad/aflevering/15777>.
 
 [^35]: Bregje Lampe, 'Feesten volgens Visjuweel', *Het Parool*, 9
     December 2008.
@@ -3337,53 +3254,53 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
 [^37]: Joel Weickgenant, 'A Different Kind of Spin, After the News Has
     Gone', *The New York Times*, 1 April 2009.
 
-[^38]:  Steven Verseput, 'Broedplaatsen voor zakelijke vrijdenkers',
-    *NRC Handelsblad*, 6 March 2013.
+[^38]: Steven Verseput, 'Broedplaatsen voor zakelijke vrijdenkers', *NRC
+    Handelsblad*, 6 March 2013.
 
-[^39]:  Sebastian Olma, 'Die Topologisierung der Werterschoepfung', in
+[^39]: Sebastian Olma, 'Die Topologisierung der Werterschoepfung', in
     Bastian Lange and Malte Bergmann (eds) *Eigensinnige Geographien*,
     Wiesbaden: VS Verlag, 2011. Sebastian Olma and Tonia Welter, *Das
     Beta-Prinzip: Coworking und die Zukunft der Arbeit*, Berlin:
     Blumbar, 2011.
 
-[^40]:  Pascal Gielen, *Creativity and other Fundamentalisms*,
-    Amsterdam: Mondriaan Fonds, 2013.
+[^40]: Pascal Gielen, *Creativity and other Fundamentalisms*, Amsterdam:
+    Mondriaan Fonds, 2013.
 
-[^41]:  David Hesmondhalgh and Sarah Baker, *Creative Labour: Media Work
+[^41]: David Hesmondhalgh and Sarah Baker, *Creative Labour: Media Work
     in Three Cultural Industries*, New York: Routledge, 2011.
 
-[^42]:  Maurizio Lazzarato, *Les Révolutions du Capitalisme*, Paris: Les
+[^42]: Maurizio Lazzarato, *Les Révolutions du Capitalisme*, Paris: Les
     Empêcheurs de Penser en Rond/ Le Seuil, 2004.
 
-[^43]:  Sebastian Olma, 'Autonomy by Dissent', in EHBK/OT301, *Autonomy
+[^43]: Sebastian Olma, 'Autonomy by Dissent', in EHBK/OT301, *Autonomy
     by Dissent*, Amsterdam: EHBK/OT301, 2013.
 
-[^44]:  This was illustrated by the Global Uprisings conference, held
+[^44]: This was illustrated by the Global Uprisings conference, held
     from 15 until 17 November 2013, in which global protest movements
     were connected to local spaces for autonomous practice through
     lectures and events.
 
-[^45]:  See, for instance, the extensive public program at Pakhuis de
+[^45]: See, for instance, the extensive public program at Pakhuis de
     Zwijger.
 
-[^46]:  Emile Durkheim, *The Elementary Forms of the Religious Life,*
+[^46]: Emile Durkheim, *The Elementary Forms of the Religious Life,*
     London: George Allen & Unwin, 1915.
 
-[^47]:  Max Weber, *Economy and Society: An Outline of Interpretative
+[^47]: Max Weber, *Economy and Society: An Outline of Interpretative
     Sociology*, New York: Bedminster Press, 1968.
 
-[^48]:  Norbert Elias, *The Civilizing Process: Sociogenetic and
+[^48]: Norbert Elias, *The Civilizing Process: Sociogenetic and
     Psychogenetic Investigations,* Oxford: Blackwell Publishers, 2000.
 
-[^49]:  Michel Foucault, *Discipline & Punish: The Birth of the Prison,*
+[^49]: Michel Foucault, *Discipline & Punish: The Birth of the Prison,*
     New York: Random House, 1995.
 
-[^50]:  Peter Sloterdijk, *Du musst dein Leben ändern: Über
+[^50]: Peter Sloterdijk, *Du musst dein Leben ändern: Über
     Anthropotechnik*, Frankfurt am Main: Suhrkamp Verlag. 2009.
 
-[^51]:  Sloterdijk, *Du musst dein Leben ändern*, p. 497.
+[^51]: Sloterdijk, *Du musst dein Leben ändern*, p. 497.
 
-[^52]:  'The argument […] is that the craft of making physical things
+[^52]: 'The argument […] is that the craft of making physical things
     provides insights into the techniques of experience that can shape
     our dealings with others. Both the difficulties and the
     possibilities of making things well apply to making human
@@ -3393,8 +3310,8 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
     people. I’ve stressed the positive open role routine and practicing
     play in the work of crafting physical things; so too do people need
     to practice their relations with one another, learn the skills of
-    anticipation and revision in order to improve these relations. […]
-    [W]ho we are arises directly from what our bodies can do. Social
+    anticipation and revision in order to improve these relations.
+    […][W]ho we are arises directly from what our bodies can do. Social
     consequences are built into the structure and the functioning of the
     human body, as in the workings of the human hand. I argue no more
     and no less than that the capacities our bodies have to shape
@@ -3402,17 +3319,17 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
     contacts'. In: Richard Sennett, *The Craftsman,* Yale: Yale
     University Press, 2008, pp. 289-290.
 
-[^53]:  The following by now classical works address this question. Luc
+[^53]: The following by now classical works address this question. Luc
     Boltanski and Eve Chiapello, *Le nouvel esprit du capitalisme,*
     Paris: Gallimard, 1999 and Holm Friebe and Sascha Lobo, *Die
     digitale Boheme oder: Intelligentes Leben jenseits der
     Festanstellung,* München: Random House, 2006.
 
-[^54]:  Paolo Virno, *A Grammar of the Multitude: For an Analysis of
+[^54]: Paolo Virno, *A Grammar of the Multitude: For an Analysis of
     Contemporary Forms of Life*, Los Angeles/New York: Semiotext(e),
     2004.
 
-[^55]:  Virno, *A Grammar of the Multitude*, p. 195.
+[^55]: Virno, *A Grammar of the Multitude*, p. 195.
 
-[^56]:  Robert Reich, *The Work of Nations*, New York: Vintage Books,
+[^56]: Robert Reich, *The Work of Nations*, New York: Vintage Books,
     1992.
