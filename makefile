@@ -18,3 +18,6 @@ VK.epub:
 
 
 
+# Epub post production - changes and and enhancements to toolkit.epub
+VK_post.epub: docs/VK.epub
+	python scripts/epub_post.py docs/VK.epub
