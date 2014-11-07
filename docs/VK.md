@@ -1,58 +1,141 @@
-
 <!--
 TODO: 
 * Complete colophone
 -->
 
-**The Volkskrant Building: Manufacturing Difference in Amsterdam’s
-Creative City**
+# Contents
 
-**Boukje Cnossen & Sebastian Olma**
+-   [Colophon](#colophon)
+-   [Acknowledgements](#acknowledgements)
+-   [Introduction: A Story of Transformation](#introduction-a-story-of-transformation)
+    -   The Volkskrant Building and the Creative City
+    -   The City from Below
+    -   Creative Catch 22
+-   [Origins: Spring 2007 and Before](#origins-spring-2007-and-before)
+    -   Places of Collective Self-Recognition
+    -   ‘Breeding Places’
+    -   The Battle for the City
+    -   'Grutters' and Alternative Economies
+    -   From Attacking ‘The System’ to Protecting Subculture
+    -   The Battle Continues
+-   [Cash-Stripped Bohemia: 2007-2009](#cash-stripped-bohemia-2007-2009)
+    -   Good Vibrations
+    -   Mixing & Matching People
+    -   Spending Cash
+    -   The First Outbursts of Creativity
+    -   The Flip Side of Openness
+    -   Giving in to Security
+    -   Onwards & Upwards
+-   [Networks of Creative Production: 2009-2013](#networks-of-creative-production-2009-2013)
+    -   No Formula for Success
+    -   Canvas: Parties and a Great View
+    -   The Business of Using Space
+    -   DIY on the Fifth Floor
+    -   Hyper-‘Grutters’
+    -   Transformers
+-   [Enter the Volkshotel – 2013 and Onwards](#enter-the-volkshotel-2013-and-onwards)
+    -   Big Money
+    -   Sounds of Protest
+    -   Moving Out
+    -   The Volkshotel and Its Legacy
+-   [Conclusion: Failing Forward](#conclusion-failing-forward)
+    -   The Tenants
+    -   The City
+    -   Urban Resort's Practices
+    -   Performative Defiance
+    -   Citizenship and Social Infrastructure
+    -   Craftsmanship
+    -   Virtuosity
+    -   Conclusion
+-   [Reference List](#reference-list)
+
+
 
 # Colophon
 
-Authors: Boukje Cnossen and Sebastian Olma
+**Boukje Cnossen and Sebastian Olma, The Volkskrant Building:
+Manufacturing Difference in Amsterdam’s Creative City**
 
-Design: [name]
+Production: Miriam Rasch
 
-ePub development: [name]
+Design: UNDOG, Amsterdam
+
+EPUB development: André Castro
+
+Copy-editor: Margarita Osipian
 
 Printer: [name]
 
 Publisher: Amsterdam Creative Industries Publishing
 
-Supported by: Amsterdam University of Applied Sciences (Hogeschool van
-Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
+Supported by: Amsterdam University of Applied Sciences (Hogeschool
+van Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
 Broedplaatsen (Municipality of Amsterdam), Institute of Network
 Cultures.
 
-Cover Image: A door of one of the studios in the art factory. Picture
-taken by Tanja Sihvonen.
+Cover image: A door of one of the studios in the art factory.
+Picture by Tanja Sihvonen.
 
-If you want to order copies please contact:
+Contact:\
+Amsterdam Creative Industries Publishing,
+www.amsterdamcreativeindustries.com
 
-Amsterdam Creative Industries Publishing
+EPUB and PDF editions of this publication are freely downloadable from
+our website.
 
-[address]
-
-[website]
-
-[e-mail address]
-
-[telephone number]
-
-ePub and PDF editions of this publication are freely downloadable from:
-
-[url]
-
-This publication is licensed under Creative Commons Attribution [add
-details]
-
+This publication is licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+To view a copy of this license, visit [creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 Amsterdam, November 2014
 
-ISBN (print)
+ISBN 978-94-92171-00-9 (print)
 
-ISBN (ePub)
+ISBN (EPUB)
+
+
+# The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
+
+The Volkskrant building more than any other place exemplifies
+Amsterdam’s transformation into a ‘creative city’ over the past fifteen
+years. Boukje Cnossen and Sebastian Olma trace the history of this
+infamous and inspiring place from its deep roots in the squatting heyday
+of the eighties to its present renaissance as the Volkshotel. The focus
+of their entertaining yet rigorous analysis is the period from 2007 to
+2014 when the Volkskrant building hosted an art factory (*broedplaats*)
+run by the former squatters collective Urban Resort.
+
+Artists, activists, city officials, entrepreneurs, and property
+developers share their stories of the good times and the struggles in
+and around the Volkskrant building. How did a group of former squatters
+turn it into a place for both creative entrepreneurship and subversion?
+And how could it happen that this countercultural project ended up
+attracting the attention of one of the largest property investors in the
+Netherlands?
+
+This detailed inquiry into the practices and interests shaping the
+epicenter of Amsterdam's creative scene provides a look behind the shiny
+façade of creative city policy. The authors show how the Volkskrant
+building came to be more than a space for creativity alone, as it opened
+up the possibility for a new infrastructure of citizenship.
+
+**Boukje Cnossen** is an academic researcher and art critic interested
+in the organization and spatial politics of artistic production. She
+holds a Master of Research in Humanities & Cultural Studies from the
+London Consortium (Birkbeck College, University of London) and pursues a
+PhD at the Faculty of Economics & Management of Tilburg University. Her
+reviews, feature articles, and essays have appeared in various
+publications, from Dutch dailies *NRC Handelsblad* and *Het Parool*, to
+(art) magazines such as *De Gids* and *Metropolis M*.
+
+**Sebastian Olma** is an author, researcher and critic working at the
+interface between creativity and business. He was trained in Political
+Science, Organization Studies and Cultural Philosophy in Leipzig, New
+York and London. As director of Amsterdam’s Serendipity Lab he advises
+governments and organizations on the creation and implementation of
+policies around the creative economy. For the University of Amsterdam he
+has built the Creative Industries Research Centre (CIRCA). He currently
+is a senior research fellow at the Institute of Network Cultures.
+
 
 
 
@@ -79,7 +162,7 @@ publication.
 
 ![Figure 1. The entrance to the fifth floor of the art factory in the
 former Volkskrant building, built and painted by the tenants of this
-floor. Picture: Tanja Sihvonen.](media/image2.jpeg)
+floor. Picture: Tanja Sihvonen.](media/image2.png)
 
 # Introduction: A Story of Transformation
 
@@ -362,7 +445,7 @@ Volkskrant building.
 
 # Origins: Spring 2007 and Before
 
-![](media/image3.jpeg)Figure 2. One of the remaining squats in the
+![](media/image3.png)Figure 2. One of the remaining squats in the
 Spuistraat, situated in the city center of Amsterdam.
 
 The story of the Volkskrant building, as we will tell it, started in
@@ -860,7 +943,7 @@ building would become.
 # Cash-Stripped Bohemia: 2007-2009
 
 ![Figure 2. People interested in renting a studio come listen to Jaap
-Draaisma during an open night.](media/image4.jpeg)
+Draaisma during an open night.](media/image4.png)
 
 On the first of June 2007, the owner of the building, housing
 corporation Het Oosten, handed over the keys of the building to Urban
@@ -1122,7 +1205,7 @@ still there’, one of the audience members recalled.
 
 ![Figure 3. The staff restaurant on the top floor as photographed during
 one of Urban Resort's exploratory visits to the building in
-2007.](media/image5.jpeg)
+2007.](media/image5.png)
 
 Nevertheless, many organizational issues were pending. The two main
 issues were the lack of manpower on the side of Urban Resort and the
@@ -1402,7 +1485,7 @@ care of him collectively, but had not *really* taken care of him’.
 ## Giving in to Security
 
 ![Figure 4. Announcement warning against theft in one of the hallways of
-the buildings. Picture: Tanja Sihvonen.](media/image6.jpeg)
+the buildings. Picture: Tanja Sihvonen.](media/image6.png)
 
 The openness that characterized the early days of the Volkskrant
 building was not just an openness towards all kinds of people. It was
@@ -1484,7 +1567,7 @@ become clear exactly how smart their choice for this building had been.
 ![Figure 5. During the Transvormers Festival, one of the tenants
 presented a project in which she invited visitors to help her bring the
 model building she had built to life. Picture: Bambos
-Demetriou.](media/image7.jpeg)
+Demetriou.](media/image7.png)
 
 Urban Resort did their best to match the squatters' ethos of autonomy
 with the wishes of the new creative class and to play by the rules and
@@ -1587,7 +1670,7 @@ was something else too.
 ## Canvas: Parties and a Great View
 
 ![Figure 6. Canvas as it looked throughout 2012 and 2013. Picture: Tanja
-Sihvonen.](media/image8.jpeg)
+Sihvonen.](media/image8.png)
 
 As was the case with many elements of the Volkskrant building, Canvas
 was a result of chance combined with some initial good selection. Thijs
@@ -2052,7 +2135,7 @@ facilitating them.
 # Enter the Volkshotel – 2013 and Onwards
 
 ![Figure 7. The building on the night of its opening as the Volkshotel.
-Picture: Raymond van Mil.](media/image9.jpeg)
+Picture: Raymond van Mil.](media/image9.png)
 
 If the previous chapters have shown us anything, it is that the
 building's buzz was an odd combination of a bit of good old squatting
@@ -2454,7 +2537,7 @@ time? Only time will tell.
 ## The Volkshotel and Its Legacy
 
 ![Figure 8. The opening party of the Volkshotel. Picture: Louk
-Heimans.](media/image10.jpeg)
+Heimans.](media/image10.png)
 
 At the official opening of the Volkshotel on June 27, 2014, Urban Resort
 and Cor van Zadelhoff shared a stage. Jaap Draaisma decided not to let
@@ -2489,7 +2572,7 @@ interesting one.
 
 # Conclusion: Failing Forward
 
-![](media/image11.jpeg)Figure 9. One of the empty studios during the
+![](media/image11.png)Figure 9. One of the empty studios during the
 period that most art factory tenants left the building. The sign of
 night club Trouw, also a temporary cultural venue in a former newspaper
 office, is visible through the window. Picture: Tanja Sihvonen.
