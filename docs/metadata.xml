@@ -1,0 +1,26 @@
+<dc:identifier id="epub-id-1">urn:isbn:??????</dc:identifier>
+<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
+<dc:title id="epub-title-1">The Volkskrant Building: Manufacturing Difference in Amsterdam’s
+Creative City</dc:title>
+<meta refines="#epub-title-1" property="title-type">main</meta>
+<dc:title id="epub-title-2">???</dc:title>
+<meta refines="#epub-title-2" property="title-type">collection</meta>    
+<dc:publisher>Amsterdam Creative Industries Publishing</dc:publisher>    
+<dc:date id="epub-date">November 2014</dc:date>
+<dc:language>en-US</dc:language>
+<dc:creator id="epub-creator-1">Boukje Cnossen</dc:creator>
+<meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+<dc:creator id="epub-creator-1">Sebastian Olma</dc:creator>
+<meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
+<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-2">Rose Leighton</dc:contributor>
+<meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-3">UNDOG</dc:contributor>
+<meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
+<dc:contributor id="epub-contributor-4">André Castro</dc:contributor>
+<meta refines="#epub-contributor-4" property="role" scheme="marc:relators">dsr</meta>
+<dc:subject>??</dc:subject>
+<dc:description>??</dc:description>
+<dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+
