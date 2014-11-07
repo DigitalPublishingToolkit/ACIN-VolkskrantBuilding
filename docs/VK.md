@@ -9,7 +9,7 @@ Creative City**
 
 **Boukje Cnossen & Sebastian Olma**
 
-# Colophon
+## Colophon
 
 Authors: Boukje Cnossen and Sebastian Olma
 
@@ -54,9 +54,54 @@ ISBN (print)
 
 ISBN (ePub)
 
+## Contents
+-   Colophon
+-   Acknowledgements
+-   Introduction: A Story of Transformation
+    -   The Volkskrant Building and the Creative City
+    -   The City from Below
+    -   Creative Catch 22
+-   Origins: Spring 2007 and Before
+    -   Places of Collective Self-Recognition
+    -   ‘Breeding Places’
+    -   The Battle for the City
+    -   'Grutters' and Alternative Economies
+    -   From Attacking ‘The System’ to Protecting Subculture
+    -   The Battle Continues
+-   Cash-Stripped Bohemia: 2007-2009
+    -   Good Vibrations
+    -   Mixing & Matching People
+    -   Spending Cash
+    -   The First Outbursts of Creativity
+    -   The Flip Side of Openness
+    -   Giving in to Security
+    -   Onwards & Upwards
+-   Networks of Creative Production: 2009-2013
+    -   No Formula for Success
+    -   Canvas: Parties and a Great View
+    -   The Business of Using Space
+    -   DIY on the Fifth Floor
+    -   Hyper-‘Grutters’
+    -   Transformers
+-   Enter the Volkshotel – 2013 and Onwards
+    -   Big Money
+    -   Sounds of Protest
+    -   Moving Out
+    -   The Volkshotel and Its Legacy
+-   Conclusion: Failing Forward
+    -   The Tenants
+    -   The City
+    -   Urban Resort's Practices
+    -   Performative Defiance
+    -   Citizenship and Social Infrastructure
+    -   Craftsmanship
+    -   Virtuosity
+    -   Conclusion
+-   Reference List
 
 
-# Acknowledgements
+
+## Acknowledgements
 
 First and foremost we would like to thank Urban Resort for their support
 in realizing this book. It was a great joy working with them. Our
@@ -79,7 +124,7 @@ publication.
 
 ![Figure 1. The entrance to the fifth floor of the art factory in the
 former Volkskrant building, built and painted by the tenants of this
-floor. Picture: Tanja Sihvonen.](media/image2.jpeg)
+floor. Picture: Tanja Sihvonen.](media/image2.png)
 
 # Introduction: A Story of Transformation
 
@@ -362,7 +407,7 @@ Volkskrant building.
 
 # Origins: Spring 2007 and Before
 
-![](media/image3.jpeg)Figure 2. One of the remaining squats in the
+![](media/image3.png)Figure 2. One of the remaining squats in the
 Spuistraat, situated in the city center of Amsterdam.
 
 The story of the Volkskrant building, as we will tell it, started in
@@ -860,7 +905,7 @@ building would become.
 # Cash-Stripped Bohemia: 2007-2009
 
 ![Figure 2. People interested in renting a studio come listen to Jaap
-Draaisma during an open night.](media/image4.jpeg)
+Draaisma during an open night.](media/image4.png)
 
 On the first of June 2007, the owner of the building, housing
 corporation Het Oosten, handed over the keys of the building to Urban
@@ -1122,7 +1167,7 @@ still there’, one of the audience members recalled.
 
 ![Figure 3. The staff restaurant on the top floor as photographed during
 one of Urban Resort's exploratory visits to the building in
-2007.](media/image5.jpeg)
+2007.](media/image5.png)
 
 Nevertheless, many organizational issues were pending. The two main
 issues were the lack of manpower on the side of Urban Resort and the
@@ -1402,7 +1447,7 @@ care of him collectively, but had not *really* taken care of him’.
 ## Giving in to Security
 
 ![Figure 4. Announcement warning against theft in one of the hallways of
-the buildings. Picture: Tanja Sihvonen.](media/image6.jpeg)
+the buildings. Picture: Tanja Sihvonen.](media/image6.png)
 
 The openness that characterized the early days of the Volkskrant
 building was not just an openness towards all kinds of people. It was
@@ -1484,7 +1529,7 @@ become clear exactly how smart their choice for this building had been.
 ![Figure 5. During the Transvormers Festival, one of the tenants
 presented a project in which she invited visitors to help her bring the
 model building she had built to life. Picture: Bambos
-Demetriou.](media/image7.jpeg)
+Demetriou.](media/image7.png)
 
 Urban Resort did their best to match the squatters' ethos of autonomy
 with the wishes of the new creative class and to play by the rules and
@@ -1587,7 +1632,7 @@ was something else too.
 ## Canvas: Parties and a Great View
 
 ![Figure 6. Canvas as it looked throughout 2012 and 2013. Picture: Tanja
-Sihvonen.](media/image8.jpeg)
+Sihvonen.](media/image8.png)
 
 As was the case with many elements of the Volkskrant building, Canvas
 was a result of chance combined with some initial good selection. Thijs
@@ -2052,7 +2097,7 @@ facilitating them.
 # Enter the Volkshotel – 2013 and Onwards
 
 ![Figure 7. The building on the night of its opening as the Volkshotel.
-Picture: Raymond van Mil.](media/image9.jpeg)
+Picture: Raymond van Mil.](media/image9.png)
 
 If the previous chapters have shown us anything, it is that the
 building's buzz was an odd combination of a bit of good old squatting
@@ -2454,7 +2499,7 @@ time? Only time will tell.
 ## The Volkshotel and Its Legacy
 
 ![Figure 8. The opening party of the Volkshotel. Picture: Louk
-Heimans.](media/image10.jpeg)
+Heimans.](media/image10.png)
 
 At the official opening of the Volkshotel on June 27, 2014, Urban Resort
 and Cor van Zadelhoff shared a stage. Jaap Draaisma decided not to let
@@ -2489,7 +2534,7 @@ interesting one.
 
 # Conclusion: Failing Forward
 
-![](media/image11.jpeg)Figure 9. One of the empty studios during the
+![](media/image11.png)Figure 9. One of the empty studios during the
 period that most art factory tenants left the building. The sign of
 night club Trouw, also a temporary cultural venue in a former newspaper
 office, is visible through the window. Picture: Tanja Sihvonen.
