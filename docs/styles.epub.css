@@ -65,6 +65,7 @@ h1,h2,h3,h4{
 
 h1{
     font-size:2em;
+    color: #f23f4e;
 }
 
 h2{
@@ -93,7 +94,7 @@ section.footnotes{
 }
 
 
-div.cover, div.halftitle, div.title, div.publications {
+div.cover, div.halftitle, div.title, div.publications, div#cover-image {
     text-align:center;
 }
 
@@ -126,10 +127,41 @@ blockquote{
 
 }
 
-a { 
-}
+a { color: #f23f4e;
+    text-decoration: none;
+  }
+
+a:hover { color: #f23f4e;
+	  text-decoration: underline;
+  }
+
+    div.streams{
+    font-family: VAGRoundedStd-Bold;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #f23f4e;
+
+    }
+
+
 
 hr {
+    height: 0;
+    color: #f23f4e;
+    width: 100%;
+    border: dotted 5px;
+    border-bottom: none;
+    font-size: 3em;
+    border-left: none;
+    border-right: none;
+}
+
+hr.streams{
+    width: 15%;
 }
 
 
@@ -137,6 +169,3 @@ ul{ /* Contents index*/
 
 }
 
-div.streams{ 
-    /* Cemtered and red and bold */
-}

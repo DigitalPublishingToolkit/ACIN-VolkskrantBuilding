@@ -1,4 +1,4 @@
-<div class="cover"><img src="media/cover.png" class="cover" /></div>
+<!--<div class="cover"><img src="media/cover.png" class="cover" /></div>-->
 
 <div class="cover"><img src="media/titlepage.png" class="cover" /></div>
 

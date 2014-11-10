@@ -13,7 +13,7 @@ import argparse
 
 ## STEP 1: unzip epub
 filename = sys.argv[1]
-pos_filename = (filename.replace(".epub",""))+"_post.epub"
+pos_filename = sys.argv[1]#(filename.replace(".epub",""))+"_post.epub"
 
 # unzip ePub
 fh = open(str(filename), 'rb')

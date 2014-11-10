@@ -6,6 +6,7 @@ VK.epub:
 	--self-contained \
 	--epub-chapter-level=1 \
 	--toc-depth=2 \
+	--epub-cover-image=media/cover.png \
 	--epub-metadata=metadata.xml \
 	--epub-stylesheet=styles.epub.css \
 	--epub-embed-font=fonts/VAGRoundedStd-Black.otf \
@@ -14,10 +15,7 @@ VK.epub:
 	--epub-embed-font=fonts/VAGRoundedStd-Thin.otf \
 	--default-image-extension png \
 	-o VK.epub \
-	VK.md
+	VK.md &&\
+	python ../scripts/epub_post.py VK.epub
 
 
-
-# Epub post production - changes and and enhancements to toolkit.epub
-VK_post.epub: docs/VK.epub
-	python scripts/epub_post.py docs/VK.epub

@@ -11,7 +11,7 @@ Creative City</dc:title>
 <dc:creator id="epub-creator-1">Sebastian Olma</dc:creator>
 <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
 <dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
-<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
+<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">pro</meta>
 <dc:contributor id="epub-contributor-2">Margarita Osipian</dc:contributor>
 <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-3">UNDOG</dc:contributor>
