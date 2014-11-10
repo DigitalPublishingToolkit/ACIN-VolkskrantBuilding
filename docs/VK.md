@@ -1,3 +1,6 @@
+<!--COVER -->
+
+<!--Title Page -->
 
 
 # Colophon
@@ -43,6 +46,9 @@ Amsterdam, November 2014
 
 **ISBN** 978-94-92171-01-6 (EPUB)
 
+<!-- LOGOS -->
+
+
 # Contents
 
 <hr />
@@ -50,47 +56,12 @@ Amsterdam, November 2014
 -   ## [Colophon](#colophon)
 -   ## [Acknowledgements](#acknowledgements)
 -   ## [Introduction: A Story of Transformation](#introduction-a-story-of-transformation)
-    -   The Volkskrant Building and the Creative City
-    -   The City from Below
-    -   Creative Catch 22
 -   ## [Origins: Spring 2007 and Before](#origins-spring-2007-and-before)
-    -   Places of Collective Self-Recognition
-    -   ‘Breeding Places’
-    -   The Battle for the City
-    -   'Grutters' and Alternative Economies
-    -   From Attacking ‘The System’ to Protecting Subculture
-    -   The Battle Continues
 -   ## [Cash-Stripped Bohemia: 2007-2009](#cash-stripped-bohemia-2007-2009)
-    -   Good Vibrations
-    -   Mixing & Matching People
-    -   Spending Cash
-    -   The First Outbursts of Creativity
-    -   The Flip Side of Openness
-    -   Giving in to Security
-    -   Onwards & Upwards
 -   ## [Networks of Creative Production: 2009-2013](#networks-of-creative-production-2009-2013)
-    -   No Formula for Success
-    -   Canvas: Parties and a Great View
-    -   The Business of Using Space
-    -   DIY on the Fifth Floor
-    -   Hyper-‘Grutters’
-    -   Transformers
 -   ## [Enter the Volkshotel – 2013 and Onwards](#enter-the-volkshotel-2013-and-onwards)
-    -   Big Money
-    -   Sounds of Protest
-    -   Moving Out
-    -   The Volkshotel and Its Legacy
 -   ## [Conclusion: Failing Forward](#conclusion-failing-forward)
-    -   The Tenants
-    -   The City
-    -   Urban Resort's Practices
-    -   Performative Defiance
-    -   Citizenship and Social Infrastructure
-    -   Craftsmanship
-    -   Virtuosity
-    -   Conclusion
 -   ## [Reference List](#reference-list)
-
 
 # The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
 
@@ -137,8 +108,8 @@ policies around the creative economy. For the University of Amsterdam he
 has built the Creative Industries Research Centre (CIRCA). He currently
 is a senior research fellow at the Institute of Network Cultures.
 
-
-
+![Announcement warning against theft in one of the hallways of
+the buildings. Picture: Tanja Sihvonen.](media/image1.png)
 
 # Acknowledgements
 
@@ -453,11 +424,14 @@ this book, it is precisely in deciphering the meaning of the adjective
 'interesting' that we find clues about the value of places like the
 Volkskrant building.
 
+![The staff restaurant on the top floor as photographed during one of Urban Resort’s exploratory visits to the building in 2007.](media/image3.png)
+
+
 # Origins: Spring 2007 and Before
 
 <hr />
 
-![One of the remaining squats in the Spuistraat, situated in the city center of Amsterdam.](media/image3.png)
+![One of the remaining squats in the Spuistraat, situated in the city center of Amsterdam.](media/image4.png)
 
 The story of the Volkskrant building, as we will tell it, started in
 March 2007. One afternoon, a small group of squatters gathered in front
@@ -871,12 +845,12 @@ on a popular spot in the city center, just in front of Amsterdam's zoo.
 So although the city had just promised to protect and fund alternative
 cultural venues, the project developer had other plans.
 
+<div class="streams"><hr class="streams" />This was not the end of painful conflicts between the city and the squatters scene.<hr class="streams" /></div>
+
 Bas van de Geyn, who would later manage the Volkskrant building for
 Urban Resort, was an active member of the community hosted by the
 Calendar Buildings. Previously he had been involved in Berlin’s famous
 *Wohnzimmerbar* movement in the late 90s:
-
-<div class="streams"><hr class="streams" />This was not the end of painful conflicts between the city and the squatters scene.<hr class="streams" /></div>
 
 > In Berlin, we would choose an area that had almost nothing going on
 > and set up bars in living rooms. It is the type of thing that everyone
@@ -966,12 +940,13 @@ hammocks were on the list of possible uses. Judging from these ideas, it
 is clear that they had no idea how sought-after every spot of the
 building would become.
 
+
+![People interested in renting a studio come listen to Jaap
+Draaisma during an open night.](media/image5.png)
+
 # Cash-Stripped Bohemia: 2007-2009
 
 <hr />
-
-![People interested in renting a studio come listen to Jaap
-Draaisma during an open night.](media/image4.png)
 
 On the first of June 2007, the owner of the building, housing
 corporation Het Oosten, handed over the keys of the building to Urban
@@ -1243,10 +1218,6 @@ this point, not many things had changed since the journalists had moved
 out. ‘Even those small containers you keep the sandwich meats in were
 still there’, one of the audience members recalled.
 
-![The staff restaurant on the top floor as photographed during
-one of Urban Resort's exploratory visits to the building in
-2007.](media/image5.png)
-
 Nevertheless, many organizational issues were pending. The two main
 issues were the lack of manpower on the side of Urban Resort and the
 absence of even the most basic administrative system. In the early days,
@@ -1351,7 +1322,7 @@ This calls for a challenge and a festive manifestation, Cosmic Party, to
 celebrate the 40th anniversary of the Russian satellite Sputnik One
 going into space’, read the invite of their party.
 
-<div class="streams"><hr class="streams" />What eventually saved the building from bankruptcy was a trick Hay came up with. ‘We called it “operation carwash”.<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />What eventually saved the building from bankruptcy was a trick Hay came up with. ‘We called it “operation carwash”’.<hr class="streams" /></div>
 
 Furthermore the first so-called Volksevent was held in November 2007.
 With generous funding from the Amsterdam Arts Fund, awarded with the
@@ -1531,9 +1502,6 @@ care of him collectively, but had not *really* taken care of him’.
 
 ## Giving in to Security
 
-![Announcement warning against theft in one of the hallways of
-the buildings. Picture: Tanja Sihvonen.](media/image6.png)
-
 The openness that characterized the early days of the Volkskrant
 building was not just an openness towards all kinds of people. It was
 also a literal lack of closed doors, resulting in theft. Some offices
@@ -1608,14 +1576,13 @@ alternative about that, it was just smart’. But it was not until several
 years of the art factory's first steps towards fame, that it would
 become clear exactly how smart their choice for this building had been.
 
+![During the Transvormers Festival, one of the tenants presented a project in which she invited visitors to help her bring the model building she had built to life. Picture: Bambos Demetriou.](media/image6.png)
+
+
 # Networks of Creative Production: 2009-2013
 
 <hr />
 
-![During the Transvormers Festival, one of the tenants
-presented a project in which she invited visitors to help her bring the
-model building she had built to life. Picture: Bambos
-Demetriou.](media/image7.png)
 
 Urban Resort did their best to match the squatters' ethos of autonomy
 with the wishes of the new creative class and to play by the rules and
@@ -1717,9 +1684,6 @@ was something else too.
 
 ## Canvas: Parties and a Great View
 
-![Canvas as it looked throughout 2012 and 2013. Picture: Tanja
-Sihvonen.](media/image8.png)
-
 As was the case with many elements of the Volkskrant building, Canvas
 was a result of chance combined with some initial good selection. Thijs Timmers 
 was barely out of art school when he started looking for a
@@ -1733,7 +1697,7 @@ was chosen because my concept was based on the participation of other
 tenants besides me'. Without a loan from the bank, and with very few
 resources, he started out in the summer of 2007.
 
-<div class="streams"><hr class="streams" />Tom Trago, also part of the fifth floor network that introduced Thijs to the building, would play his sets in exchange for free food and drink<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />Tom Trago, also part of the fifth floor network that introduced Thijs to the building, would play his sets in exchange for free food and drink.<hr class="streams" /></div>
 
 Canvas, as the name suggests, would be a space open for the exhibition
 of artwork and the showcasing of musical talent. As the interior
@@ -2172,12 +2136,12 @@ organizers of Lowlands, the largest pop festival of the Netherlands. His
 bar being part of Lowlands for five years eventually led to his own
 festival, Magneetfestival, on the eastern outskirts of Amsterdam.
 
+![The building on the night of its opening as the Volkshotel.
+Picture: Raymond van Mil.](media/image7.png)
+
 # Enter the Volkshotel – 2013 and Onwards
 
 <hr />
-
-![The building on the night of its opening as the Volkshotel.
-Picture: Raymond van Mil.](media/image9.png)
 
 If the previous chapters have shown us anything, it is that the
 building's buzz was an odd combination of a bit of good old squatting
@@ -2616,14 +2580,12 @@ character of the Volkshotel will be rather different from the old
 Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
 
+
+![The sign of night club Trouw through the window of an empty studio as tenants were moving out. Picture: Tanja Sihvonen.](media/image8.png) 
+
 # Conclusion: Failing Forward
 
 <hr />
-
-![One of the empty studios during the
-period that most art factory tenants left the building. The sign of
-night club Trouw, also a temporary cultural venue in a former newspaper
-office, is visible through the window. Picture: Tanja Sihvonen.](media/image11.png) 
 
 In this concluding chapter, we will assess the art factory project from
 the point of view of the different stakeholders and try to locate the
@@ -3000,7 +2962,7 @@ not useful to them. The virtuosity that is necessary to navigate today’s
 economic, as well as political, terrain is one totally different from
 the one Sennett has in mind. It is neither the virtuosity of a bygone
 era of crafting, nor is it the virtuosity of the factory and the big
-office — if such a thing ever existed. It it a new kind of virtuosity and this has implications for
+office — if such a thing ever existed. It is a new kind of virtuosity and this has implications for
 the contemporary practice of citizenship.
 
 ## Virtuosity
@@ -3076,8 +3038,7 @@ Mobius strip where one is always on both sides at the same time.
 
 ## Conclusion
 
-![The opening party of the Volkshotel. Picture: Louk
-Heimans.](media/image10.png)
+![The opening party of the Volkshotel. Picture: Louk Heimans.](media/image9.png)
 
 The good news is that all over the global metropolis, one can observe
 experiments in building such topologies where the multitudinous powers
@@ -3120,6 +3081,8 @@ example of the Volkskrant building is far from providing the final
 answer to this question, but it has offered a trajectory of *failing
 forward* which may provide a basis for those courageous enough to take
 up the task themselves.
+
+![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)
 
 # Reference List
 
