@@ -1,7 +1,51 @@
-<!--
--->
+
+
+# Colophon
+
+<hr />
+
+**Boukje Cnossen and Sebastian Olma,\
+The Volkskrant Building:
+Manufacturing Difference in Amsterdam’s Creative City**
+
+**Production** Miriam Rasch
+
+**Design** UNDOG, Amsterdam
+ 
+**EPUB development** André Castro
+
+**Copy-editor** Margarita Osipian
+
+**Printer** Offsetdrukkerij Nuance
+
+**Publisher** Amsterdam Creative Industries Publishing
+
+**Supported by** Amsterdam University of Applied Sciences (Hogeschool
+van Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
+Broedplaatsen (Municipality of Amsterdam), Institute of Network
+Cultures.
+
+**Cover image** A door of one of the studios in the art factory.
+Picture by Tanja Sihvonen.
+
+**Contact** Amsterdam Creative Industries Publishing,
+[www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)
+
+EPUB and PDF editions of this publication are freely downloadable from
+our website.
+
+This publication is licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+To view a copy of this license, visit [creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Amsterdam, November 2014
+
+**ISBN** 978-94-92171-00-9 (print)
+
+**ISBN** 978-94-92171-01-6 (EPUB)
 
 # Contents
+
+<hr />
 
 -   ## [Colophon](#colophon)
 -   ## [Acknowledgements](#acknowledgements)
@@ -48,50 +92,9 @@
 -   ## [Reference List](#reference-list)
 
 
-
-# Colophon
-
-**Boukje Cnossen and Sebastian Olma,\
-The Volkskrant Building:
-Manufacturing Difference in Amsterdam’s Creative City**
-
-**Production** Miriam Rasch
-
-**Design** UNDOG, Amsterdam
- 
-**EPUB development** André Castro
-
-**Copy-editor** Margarita Osipian
-
-**Printer** Offsetdrukkerij Nuance
-
-**Publisher** Amsterdam Creative Industries Publishing
-
-**Supported by** Amsterdam University of Applied Sciences (Hogeschool
-van Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
-Broedplaatsen (Municipality of Amsterdam), Institute of Network
-Cultures.
-
-**Cover image** A door of one of the studios in the art factory.
-Picture by Tanja Sihvonen.
-
-**Contact** Amsterdam Creative Industries Publishing,
-[www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)
-
-EPUB and PDF editions of this publication are freely downloadable from
-our website.
-
-This publication is licensed under Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
-To view a copy of this license, visit [creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-Amsterdam, November 2014
-
-**ISBN** 978-94-92171-00-9 (print)
-
-**ISBN** 978-94-92171-01-6 (EPUB)
-
-
 # The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
+
+<hr />
 
 The Volkskrant building more than any other place exemplifies
 Amsterdam’s transformation into a ‘creative city’ over the past fifteen
@@ -139,6 +142,8 @@ is a senior research fellow at the Institute of Network Cultures.
 
 # Acknowledgements
 
+<hr />
+
 First and foremost we would like to thank Urban Resort for their support
 in realizing this book. It was a great joy working with them. Our
 special thanks go to the people of the Volkskrant building; all the
@@ -163,6 +168,8 @@ former Volkskrant building, built and painted by the tenants of this
 floor. Picture: Tanja Sihvonen.](media/image2.png)
 
 # Introduction: A Story of Transformation
+
+<hr />
 
 This book tells the story of the Volkskrant building and how it became
 an ‘art factory'. ‘Art factory’ is a slightly inspired translation of
@@ -449,6 +456,8 @@ this book, it is precisely in deciphering the meaning of the adjective
 Volkskrant building.
 
 # Origins: Spring 2007 and Before
+
+<hr />
 
 ![One of the remaining squats in the Spuistraat, situated in the city center of Amsterdam.](media/image3.png)
 
@@ -964,6 +973,8 @@ is clear that they had no idea how sought-after every spot of the
 building would become.
 
 # Cash-Stripped Bohemia: 2007-2009
+
+<hr />
 
 ![People interested in renting a studio come listen to Jaap
 Draaisma during an open night.](media/image4.png)
@@ -1606,6 +1617,8 @@ become clear exactly how smart their choice for this building had been.
 
 # Networks of Creative Production: 2009-2013
 
+<hr />
+
 ![During the Transvormers Festival, one of the tenants
 presented a project in which she invited visitors to help her bring the
 model building she had built to life. Picture: Bambos
@@ -2185,6 +2198,8 @@ facilitating them.
 
 # Enter the Volkshotel – 2013 and Onwards
 
+<hr />
+
 ![The building on the night of its opening as the Volkshotel.
 Picture: Raymond van Mil.](media/image9.png)
 
@@ -2633,6 +2648,8 @@ Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
 
 # Conclusion: Failing Forward
+
+<hr />
 
 ![One of the empty studios during the
 period that most art factory tenants left the building. The sign of
@@ -3136,6 +3153,8 @@ forward* which may provide a basis for those courageous enough to take
 up the task themselves.
 
 # Reference List
+
+<hr />
 
 Abrahamse, Jaap Evert et al. *Spel + Tegenspel: supervisie aan de
 IJ-oevers*, Bussum: Toth, 2000.
