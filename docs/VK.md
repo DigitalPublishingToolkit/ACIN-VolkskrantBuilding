@@ -187,13 +187,12 @@ it was the place to be in Amsterdam for anyone who wanted to tune into
 the beat of art and subculture.
 
 As with all publicly subsidized art factories, the Volkskrant Building
-was always meant to be a temporary creative space. In 2012, after 6
-years of being an art factory, the building was sold for twenty million
-euros, one third above its taxed value. Although this illustrates the
-market value that creative city transformation is able to generate, the
-story of the art factory does not end here. At the moment of writing,
-the building has just been transformed into a hotel, retaining in its
-name (‘Volkshotel’) a reminder of its former function. A smaller art
+was always meant to be a temporary creative space. In 2012, after 5 years of being an art factory, the building was sold
+to an entrepreneur and property investor who have used the creative
+image of the place in order to turn it into a cultural hotel. Although
+this illustrates the use that the arts have for commercial endeavors,
+the story of the art factory does not end here. The name of the hotel -
+Volkshotel - reminds of the buildings former function and a smaller art
 factory will continue to be part of the building and is effectively
 subsidized by the hotel business. With this rather unique business
 model, the aim is to keep the creative weirdness of the art factory.
@@ -238,7 +237,7 @@ starting to become influential as a policy approach all over Europe. The
 creative city paradigm emerged from the intersection of two different
 developments. One was the political creation of the creative industries
 as a new economic sector. Originally an initiative of Tony Blair’s New
-Labor government, creative industries policies quickly started to spread
+Labour government, creative industries policies quickly started to spread
 throughout the European continent. The goal of these policies was to
 unify all those economic activities connected to the generation and
 exploitation of intellectual property where, it was argued, the future
@@ -338,7 +337,7 @@ adjacent networks.
 
 Someone who understood this very well was the American geographer Edward
 Soja, who visited Amsterdam in 1990. During his stay in the Dutch
-capital, he carefully observed the legalized squats on the Spuistraat,
+capital, he carefully observed the squats on the Spuistraat,
 where he was living at the time. In the essay that resulted from these
 observations, he states that the squatters movement was more than just
 an occupation of abandoned offices, factories, warehouses, and some
@@ -373,9 +372,8 @@ the culture that forms the foundation of Amsterdam as a creative city.
 
 The Volkskrant building was realized by a handful of ex-squatters who,
 over the course of the project and with the support of the city, turned
-into real estate developers. These squatters-turned-property-developers
-infused this space that the city had handed over to them with the dose
-of weirdness and mild insanity that — as we have said above — has always
+into real estate developers. These squatters cum property developers infused this space with the dose
+of weirdness and mild insanity that – as we have said above – has always
 been one of the reasons for Amsterdam’s attractiveness as a city. Taking
 on the name Urban Resort, the ex-squatters built an organization that
 was able to carry some of the old Amsterdam craziness into the future.
@@ -496,34 +494,30 @@ existing powers in order to create and maintain their 'places of
 self-recognition'.[^8] Vice versa, the city government at a certain
 point had started to notice the value of the movements that challenged
 them, and decided to organize those disruptive powers in order to
-mobilize them for the sake of the entire city. Soja's observations will
+mobilize them for the sake of the entire city. Soja's observation will
 be helpful to the reader who is not familiar with the complex dialectic,
 that is particular to Amsterdam, between the former squatters and the
 city government. It is against this backdrop that the development of the
 Volkskrant building has to be understood. Let's take yet another look at
 those former squatters as they are standing in front of the Volkskrant
-building in the afternoon of March 2007. Hein de Haan, for instance, is
-an associate professor in urban planning. Hay Schoolmeesters worked as a
-cultural organizer on the NDSM-wharf, one of the city's formerly
-industrial wharfs, and Eric Duivenvoorden has published various books on
-the history of the squatters movement.[^9] Jaap Draaisma works as a
-civil servant for one of the city's boroughs. But while all of them are
-holding so-called 'decent jobs', each of them has nonetheless continued
-to fight for the legalization and protection of squatted places. Only
-they have resorted to more legal, and less tiresome, ways.
+building in the afternoon of March 2007. Hein de Haan for instance, had become an associate
+professor in urban planning. Hay Schoolmeesters had worked as a cultural organizer on the NDSM-wharf, one of the city's formerly
+industrial wharfs, and Eric Duivenvoorden had published various books on
+the history of the squatters movement.[^9] Jaap Draaisma had worked as a civil servant for one of the city's boroughs. But while all of them are holding so-called 'decent jobs', each of them nonetheless continued to fight for the legalization
+and protection of squatted places. Only they had resorted to more legal,
+and less tiresome, ways.
 
 <div class="streams"><hr class="streams" />A *broedplaats* is something in between an incubator and an artistic residency. It literally translates as ‘breeding place’.<hr class="streams" /></div>
 
-So will they be up for converting such a big building into a place for a
-creative community? Time, it seems, is on their side. Amsterdam’s
-officials are finally listening to them. Since the 90s, the economy has
-been booming and Amsterdam chose to redevelop its waterfront into a
+So would they be up for converting such a big building
+into a creative community? Time, it seems, was on their side.
+Amsterdam’s officials were finally listening to them. Since the
+nineties, the economy was booming and Amsterdam chose to redevelop its waterfront into a
 prestigious skyline. This meant getting rid of the remaining squats that
 had settled in the old warehouses around the harbor. The tight network
 that remained from the squatters movement, and of which our protagonists
-are a part, protested against this, but to no avail. Now, as a way of
-making it up to them, the city government is giving them a chance to
-show what they were capable of.
+are a part, protested against this, but to no avail. Now, as a way of making it up to them, the city
+government was giving them a chance to show what they were capable of.
 
 ## ‘Breeding Places’
 
@@ -536,14 +530,14 @@ policy, so the squatters were thinking, would enable them not only to
 set up an autonomous community without the risk of being evicted, but it
 would give them funding from the city on top of that.
 
-So as they find themselves contemplating the rather boring looking
-building that would soon be vacant, their hands are definitely itching.
-It is a chance to prove what they are capable of. To contribute to the
-city's diversity by making room for artistic experiments, cultural
-exchanges, and countercultural manifestations. A space devoid of the
-dominant economic rationale, where social and cultural values are more
-important than financial gain. If only they knew what they signed up
-for.
+So as they found themselves contemplating the rather boring looking
+building that would soon become empty, their hands were definitely
+itching. It was a chance to prove what they were capable of. To
+contribute to the city's diversity by making room for artistic
+experiments, cultural exchanges, and countercultural manifestations. A
+space devoid of the dominant economic rationale, where social and
+cultural values would be more important than financial gain. If only
+they had known what they signed up for.
 
 Hay Schoolmeesters had his doubts. Being the rookie of the gang, Hay
 recalls planning for a year-long sabbatical when Draaisma asked him to
@@ -611,14 +605,14 @@ certainly what happened to Jaap Draaisma. He initially became a squatter
 simply because he needed a place to live. After spending only a week in
 a squatted building that was then evicted, Jaap ended up in another
 squat and realized the political nature of the movement. Jaap: ‘They
-were affiliated with Kabouter, real hippies. They created meditation
+were real hippies. They created meditation
 rooms in all these squats, with incense and what have you. There was a
 lot of escapism to it, with their drugs and communes. I grew up in an
 area that was rather poor and sympathetic to the communists because of
 all the social work they did. Communists did not want to escape, they
 wanted to take over. Coming from that background, I thought these
-hippies were rather decadent’. The hippies Jaap refers to were
-Amsterdam’s so-called Provos. At the end of the 1970s, their
+hippies were rather decadent’. The hippies Jaap refers to were Amsterdam’s so-called
+Kabouters, who had emerged out of the Provo movement. At the end of the 1970s, their
 manifestations, and the atmosphere of freedom and possibility that came
 with it, attracted young people from all over the world to the city.
 Perhaps in a peculiar way they could be seen as the alternative and
@@ -776,8 +770,8 @@ sailing.
 But it never hurts to look to one’s laurels. During the 1990s, as the
 property market was reaching a peak, it was decided that almost all
 alternative cultural venues around the harbor that had come out of the
-squatting scene and had settled into warehouses, such as the Grampians
-and Rieslings Amerika, had to disappear. A group of local politicians
+squatting scene and had settled into warehouses, such as the Graansilo and Pakhuis Amerika, 
+had to disappear. A group of local politicians
 and officials had been inspired by a field trip to cities such as
 Baltimore and Boston in the United States,[^17] and felt that the shores
 of the IJ, as the harbor’s water is called, had to become the city's
@@ -824,7 +818,7 @@ members from the squatters movement, among which were Urban
 Resort-founders Hein de Haan and Hessel Dokkum. Throughout 2000, their
 meetings took place at ADM, arguably the most outstanding squat in
 Amsterdam and accidentally the place where another Urban Resort founder,
-Hay Schoolmeesters, also lives. Jaap Schoufour, who would later become
+Hay Schoolmeesters, also lives until this day. Jaap Schoufour, who would later become
 head of the Art Factory Bureau, recalls the odd mixture of people.
 ‘There were two types of people in that group, really. Some said you
 should never talk to the city government, because it is against the
@@ -1123,7 +1117,7 @@ difference’.
 
 It must have been due to this belief in the self-organizing capacities
 of their tenants that Urban Resort did not ask people to pay a deposit.
-‘Granted, that was one of the stupidest things we did’, Jaap admits.
+‘Granted, that was one of the stupidest things we did’, Jaap Draaisma admits.
 ‘You might ask how we could have made that mistake with thirty years of
 experience in setting up buildings under our belt’, he adds. Apparently,
 the spirit of the 80s had survived, but its organizational form had to
@@ -1243,7 +1237,7 @@ over in a few weeks' time’.
 Practical issues did not keep tenants-to-be from starting to make use of
 the building. In June 2007, the top floor was used for the rehearsal of
 a theater performance by theatre group Opium voor het Volk [Opium for
-the People]*.* The space used to be the staff restaurant of De
+the People]. The space used to be the staff restaurant of De
 Volkskrant and would later turn into the popular spot Canvas. But at
 this point, not many things had changed since the journalists had moved
 out. ‘Even those small containers you keep the sandwich meats in were
@@ -1279,7 +1273,7 @@ sections in order to build their own kitchen. The second floor was still
 an open space but, awaiting permission to build walls, people had
 started to mark their own sections using laundry line and bunting. Those
 tenants finally decided to divide the big open space into small studios.
-Jelmer participated in this. ‘We built all those walls out of plaster in
+Jelmer Rypkema participated in this. ‘We built all those walls out of plaster in
 a week. It was quite impressive to see how much we could achieve
 together’, he says.
 
@@ -1301,7 +1295,7 @@ these was the third floor.
 
 The third floor had formed a collective and a few people were
 responsible for collecting and paying rent on behalf of everyone.
-Fatuous Farah, one of the few tenants left from those days, recalls
+Fatumoh Farah, one of the few tenants left from those days, recalls
 their initial plans. ‘We had a general meeting every fortnight and some
 budget for activities and expenses. But then people just refused to pay
 rent. I think they did not realize they had to show commitment to the
@@ -1340,7 +1334,7 @@ avoiding them.
 And in spite of the continuing financial distress, the Volkskrant
 building quickly became a place for intense creative production and
 wacky celebrations of all things less mainstream. It had its official
-opening as an art factory on September 21, 2007. The city council
+opening as an art factory on September 21, 2007. The borough 
 originally did not grant the license for the party, but by the
 intervention of the mayor the party was able to go on. In line with the
 atmosphere of excitement, this fact was celebrated with a big party
@@ -1379,7 +1373,7 @@ with no financial support.
 
 <div class="streams"><hr class="streams" />The first two years in the life of the new creative hub were characterized by a very diverse set of initiatives, all marked by a buzz of creativity and the feeling that everyone was there to make the place into more than the sum of its parts.<hr class="streams" /></div>
 
-In the same article, an art management professional tells them that the
+In the same article which appeared in *Amsterdam Weekly*, an art management professional tells them that the
 building is ‘really good for people who come from outside the country
 and haven't really got a network in Amsterdam yet’.[^23] Its international appeal was indeed one of the strongest features of the
 Volkskrant building art factory, especially in its first years. If a
@@ -1397,7 +1391,7 @@ contemporary art world.
 
 Illustrative of the role of the Volkskrant building as an informal
 residency program, or incubator space, is an article in the German
-weekly magazine *Der Spiegel* featuring the Volkskrant building*.*
+weekly magazine *Der Spiegel* featuring the Volkskrant building.
 Volkskrant building resident Dorien Westphal states here: ‘I am a nomad.
 If it's not buzzing any more where I live, I'll be gone fast’, Dorien
 tells the reporter.[^25] Westphal, a product designer, has a 30 square
@@ -1596,9 +1590,8 @@ remembers.
 > the building too. It was a raw place, but also comfortable somehow,
 > because they knew me and they knew the city supported it. Foreign
 > groups would also run into people from their own country, which was,
-> again, great for the international appeal of Amsterdam. Job Cohen,
-> mayor of Amsterdam at the time, even celebrated his birthday at
-> Canvas.
+> again, great for the international appeal of Amsterdam. The daughter of then-mayor of Amsterdam, Job Cohen, even
+> celebrated her birthday at Canvas. 
 
 But the highlight must have been the time Jaap had to free a lift full
 of civil servants at 3 am. ‘They had hired out Canvas for a function and
@@ -1644,7 +1637,7 @@ from the 80s into 2007’.
 Doreen Wittenbols, who works at Urban Resort's financial department, but
 also used to live at the Plantage Doklaan, one of Amsterdam's legalized
 squats, confirms the fundamental difference between living and working
-in such a place, and working in an art factory*.* She thinks that the
+in such a place, and working in an art factory. She thinks that the
 basis on which a squat functions does not translate well into the
 current context. ‘Much of the public funding for young artists has
 disappeared now, and artists have never earned much to begin with. When
@@ -1707,11 +1700,11 @@ like. As discussed in the previous chapters, the art factory in the
 Volkskrant building started to look very different from the spaces and
 practices imagined by the people setting it up. Yet again, in this
 process of trial and error, a lot of things happened and a lot of fun
-was had. In this chapter, we delve into what we think are the key
-ingredients that gave the Volkskrant its specific character: the venue
-on the top floor; the fact that people could alter the spaces they used;
-and the sociality that characterized the atmosphere of the building,
-which sometimes led to interesting collaborations, although we argue
+was had. In this chapter we delve into what we think are the key
+ingredients that made the Volkskrant building what it was: the venue on
+the top floor, the fact that people could alter the spaces they used,
+and the sociality that characterized the atmosphere of the building.
+This sociality did lead to some interesting collaborations, but we argue
 that this should not be seen as the central purpose of a place such as
 the Volkskrant building. We will also show how each of these elements
 cannot be seen as exclusively ‘bottom-up’ or ‘top-down’, to borrow again
@@ -1728,8 +1721,8 @@ was something else too.
 Sihvonen.](media/image8.png)
 
 As was the case with many elements of the Volkskrant building, Canvas
-was a result of chance combined with some initial good selection. Thijs
-Timmers was barely out of art school long when he started looking for a
+was a result of chance combined with some initial good selection. Thijs Timmers 
+was barely out of art school when he started looking for a
 studio to paint, and ended up at the Volkskrant building. Initially part
 of the group that took on the fifth floor, he soon came to learn that
 Urban Resort was looking for an entrepreneur to turn the top floor, the
@@ -1763,7 +1756,7 @@ Parool* in December 2008.[^35] Of course, Canvas benefited massively
 from the DJs who were Thijs Timmers' friends. In the first few years,
 Tom Trago, also part of the fifth floor network that introduced Thijs to
 the building, would play his sets in exchange for free food and drink.
-Artist Steven de Peven and party organizer Silvester Poll, both tenants
+Artist Steven de Peven and party organizer Silvester Pöll, both tenants
 downstairs, would conceptualize and plan the themes and entertainment
 for many nights. And of course, the place had solid assets such as great
 cocktails and a fantastic roof top terrace.
@@ -1790,10 +1783,10 @@ From his initial plan to become some sort of living room with extras,
 Canvas grew into one of the favorite spots for Amsterdammers and
 visitors for a coffee or a beer with a great view over the city.
 
-The latte-sipping crowds aside, Canvas did maintain its ties with
-Amsterdam’s alternative heritage. Living Legends, an evening showcasing
-the hippie stars from days gone by, was an initiative organized by
-artist Steven de Peven. The plan emerged completely organically and
+Latte-sipping crowds aside, Canvas did maintain its
+ties with Amsterdam’s alternative heritage. Living Legends, an evening
+showcasing hippie stars from days gone by, was an initiative organized
+by artist Steven de Peven. The plan emerged completely organically and
 without Urban Resort’s interference. Nevertheless, Jaap Draaisma was
 pleased and surprised in equal measure to see the alternative crowd that
 was the precursor of the squatting movement of the 80s, pass by. 'All of
@@ -1818,8 +1811,8 @@ consultant. It was a second — and sometimes clandestine first — home to
 painters, musicians, sound engineers, dance teachers, writers, internet
 startups, graphic designers, project managers, computer coders,
 communication experts, social enterprises, and filmmakers. On an average
-day, one was likely to run into several dogs and get the occasional
-breeze of marijuana in the hallways. The building was accessible for
+day, one was likely to run into several dogs and catch the occasional breeze of maijuana 
+in the hallways. The building was accessible for
 tenants 24/7, making it perfect for after-parties in art studios on the
 weekends. While you could notice at least an awareness of office hours
 on most floors, the basement and fifth floor, mostly filled with
@@ -1836,8 +1829,7 @@ Amsterdam University of Applied Sciences. This arrangement caused the
 building to be invaded by freshmen from time to time. Although some
 tenants got annoyed with the queues of students in front of 'their'
 toilets, the scene of young female students readjusting their
-headscarves and carefully applying eye makeup in front of the mirrors
-was an enjoyable miniature of Amsterdam's multicultural life.
+headscarves and carefully applying eye makeup offered a miniature of Amsterdam's multicultural life.
 
 <div class="streams"><hr class="streams" />This was a place where people were treated like grownups, perfectly able to create and sustain professional social networks on their own if they felt like it.<hr class="streams" /></div>
 
@@ -1953,8 +1945,7 @@ terms of professions, but we just understand each other', he says. He
 also illustrates how the opposite can be true: 'Some years back a few
 charity organizations rented space here on this floor too. They had more
 of a 9-to-5 mentality, so we sometimes clashed with them. About what?
-Well, we are young creatives with a preference for nightlife'.
-
+Well, we are young creatives with a preference for nightlife'. 
 Needless to say, from time to time, this preference reflected in the
 tidiness of the floor and the amount of empty beer cans present.
 Nevertheless, a fondness of partying is definitely not all that’s
@@ -1976,7 +1967,7 @@ criticized for being too 'in-crowd', yet at the same time it had a
 surprising number of tenants who had come from other countries to study
 at art schools or further themselves creatively in other ways. Because
 of Urban Resort’s preference to accept new tenants who already had
-contacts in the building, newcomers sometimes had an advantage in the
+contacts in the building, newcomers sometimes had an advantage in the 
 sense that they did not have to beat a years-long waiting list made up
 entirely of locals. As long as you knew someone who already was a
 tenant, it was easy to become a subletter of someone’s studio for a few
@@ -2051,15 +2042,14 @@ outside of the building', recalls Laetitia.
 > henna tattoos. This is how I got to know everyone on this floor. I
 > somehow felt that once I was in, I would be there for good.
 
-Laetitia quickly got her own studio space and has continued to focus on
-making henna tattoos ever since.
+Laetitia quickly got her own studio space and has continued to focus on henna tattoos ever since.
 
 ## Hyper-‘Grutters’
 
-A case in which actual businesses were incubated takes shape on the part
-of the second floor that housed a mixture of small startup companies and
-independent coders. They had initially moved into shared spaces in order
-to keep their businesses, in typical startup lingo, 'lean'. Peter
+On the second floor, which housed a mixture of small
+start-up companies and independent coders, actual business were
+incubated. These entrepreneurs had initially moved into shared spaces in
+order to keep their businesses, in typical start-up lingo, ‘lean’. Peter
 Robinett, an American coder who originally moved to Amsterdam to start a
 magazine on E2013 AND ONWARDS
 uropean politics and culture, was the first among them. He
@@ -2117,7 +2107,9 @@ course, the big, fat irony of this comparison is that even with the
 risks for failure being high, the startup movement has made subversive
 entrepreneurialism — and the aesthetics that come with it — the
 non-subversive ideal type of neoliberal capitalism, whereas the
-entrepreneur-squatters thought they could get rid of capital altogether.
+the entrepreuner-squatters initially thought they 
+could get rid of capital altogether.
+
 
 Their capitalist ambitions aside, the social atmosphere of the second
 floor techies did generate a weekly event which the larger networks of
@@ -2129,7 +2121,7 @@ weekly yoga practice. The hardest adjustment for them was not practicing
 between ballet barres and framed pictures of tutus, but the fact that
 their smartphones had no reception for a full hour. However, they
 persevered and even attracted other techies working elsewhere in the
-city to the Volkskrant building in order to join in on the class. Word
+city to the Volkskrant building in order to join the class. Word
 spread, so much so that nerd yoga made it to being featured on the
 internationally-read technology blog *Venture Beat*.
 
@@ -2164,7 +2156,7 @@ few all-nighters to make all of this happen, but the end result was one
 of great fun shared by tenants, organizers and visitors.
 
 Although most tenants were very sympathetic towards ‘the landlord's'
-attempts at organizing receptions and festivals, even when they would
+attempts at organizing parties and festivals, even when they would
 not necessarily participate themselves, it was the presence of city
 officials that invoked the skepticism Urban Resort was trying to avoid.
 Marjolein van der Wal, a fashion designer and performance artist whose
@@ -2179,22 +2171,6 @@ his Magneetbar ['magnetic bar'] at the festival and was spotted by the
 organizers of Lowlands, the largest pop festival of the Netherlands. His
 bar being part of Lowlands for five years eventually led to his own
 festival, Magneetfestival, on the eastern outskirts of Amsterdam.
-
-When the Volkskrant building art factory reached its sixth anniversary,
-it had become difficult to pinpoint which of the Volkskrant building’s
-‘successes’ were the result of Urban Resort’s efforts, and which of
-these were entirely 'bottom-up'. All interesting things that emerged
-from the building’s communities were all, to some extent, facilitated by
-Urban Resort. This is the case for Canvas, which would have gone
-bankrupt without Urban Resort's leniency towards paying rent, and would
-not have been able to act as a platform for the many DJs from the
-building. It is the case for the graphic designers, performance artists
-and music producers from the creative community on the fifth floor,
-which would have had more difficulties in achieving their artistic goals
-if rents would have been higher. And finally, it is the case for the
-startup community that could grow stronger and larger not only due to
-their own hard work but also because of Urban Resort's flexibility in
-facilitating them.
 
 # Enter the Volkshotel – 2013 and Onwards
 
@@ -2254,7 +2230,7 @@ later Stadgenoot called him and said that it indeed was.
 
 As it happened, Urban Resort was also in the market to buy. Since the
 beginning of the Volkskrant building project, it had been their goal to
-purchase property. Having assets would allow them to secure their
+purchase property. Having assets would allow them to consolidate their
 position and expand their organization. So when the housing corporation
 Stadgenoot put the building on the market, Urban Resort wanted to try
 and buy it. Not having any substantial capital, they had to find an
@@ -2273,12 +2249,13 @@ picked up even more'.
 All of a sudden the old squatters were rubbing shoulders with property
 investors. While their relationship with the city council had become a
 stable one, dealing with old money was definitely a challenge and a
-cause for serious headaches. Nevertheless, the opportunity of running
-the art factory for another ten years seemed too good to pass up, so
-they teamed up and put in an offer. Only Job Heimans' offer was higher.
-'That was a crushing blow', says Duco. Now that Job was the new owner of
-the building, Urban Resort was either out or needed to somehow find a
-way to collaborate with him. That is, if he was interested in such a
+cause for serious headaches. Nevertheless, the opportunity of running the art factory
+for another ten years seemed too good to pass. So they teamed up and put
+in an offer, which turned out to be not high enough. Job Heimans' offer
+eventually was accepted and he became the new owner of the building.
+'That was a crushing blow', says Duco. This new situation meant that
+Urban Resort was either out or needed to somehow find a way to
+collaborate with him. That is, if he was interested in such a
 collaboration at all.
 
 Perhaps surprisingly, he was. He figured that independent art studios
@@ -2324,8 +2301,6 @@ success. The size and location of the Volkskrant building fit the bill
 as well. Keeping the art factory might not have been on Job’s mind right
 from the start, but he somehow came around on that too.
 
-<div class="streams"><hr class="streams" />The relationship between Urban Resort and Job Heimans became more intense again when Cor van Zadelhoff, a founder of DTZ, one of Europe’s biggest property brokers, entered into the picture.<hr class="streams" /></div>
-
 The idea of a collaboration started to grow on both Urban Resort and Job
 Heimans. Jaap Draaisma:
 
@@ -2356,11 +2331,11 @@ Zadelhoff was a particularly bitter pill to swallow for the Urban Resort
 people. Some of them were old enemies from the time when Van Zadelhoff
 funded the political campaigns against squatting. The right-wing parties
 eventually proposed an anti-squatting law which was accepted in 2010.
-Prior to that, in 2009, Dutch Labour Party minister Ellen Vogelaar had
+Prior to that, in 2009, Dutch Labor Party minister Ellen Vogelaar had
 organized an informal meeting at Canvas with the help of Urban Resort
 and representatives of the squatting movement, to come up with a protest
-against the proposed law against squatting. Many left-leaning
-politicians were present and the event had to be kept secret. 'It was
+against the proposed law against squatting. Many right-leaning politicians were present and the event had
+to be kept secret. 'It was
 bizarre that after being involved in this diplomatic attempt to nip the
 law in the bud, I now had to look at Van Zadelhoff as a potential
 business partner', Jaap Draaisma says.
@@ -2413,7 +2388,7 @@ open his Volkshotel in spring 2014.
 
 During these meetings, many tenants expressed their enthusiasm for the
 multi-functional building comprising hotel, club, restaurant, co-working
-space, meeting rooms, and renovated workspaces*.* Heimans' plans of
+space, meeting rooms, and renovated workspaces. Heimans' plans of
 bringing artwork by tenants into the hotel's foyer, or having touring
 bands record something in one of the music studios in the basement, were
 met with approval. The promise of free access to the planned hot tubs on
@@ -2434,10 +2409,8 @@ Job had made his plans known, a group of tenants from the second floor
 got together and wrote a letter in which they stated they would stay as
 long as their rental contract allowed them to, and would not cooperate
 with an earlier transition. This group consisted of a mixture of
-internet entrepreneurs and artists. This conspiracy quickly dispersed.
-Each of them had invested differently in their workspace and each of
-them had different opinions on what an affordable rent would be
-elsewhere.
+internet entrepreneurs and artists. However, this conspiracy quickly dispersed due to lack
+of shared interests.
 
 Some individual tenants were unhappy with the plans and decided to leave
 instead of protest. The Serbian sound engineer Slobodan Bajic, who moved
@@ -2498,9 +2471,8 @@ start. A factor in this was that they discovered they had been exposed
 to asbestos in their workspaces. This had put them on their guard for
 other disappointments from the side of those in charge of the building
 they worked at. In their meeting with Job Heimans, they stressed the
-importance of collective effort in making an art factory of value. 'When
-you want the creative character of this building to stay, you have to
-acknowledge that that has emerged organically, and that you will now
+importance of collective effort in making an art factory of value. 'If you want to sustain the creative character of
+this building, you have to acknowledge that it has emerged organically, and that you will now
 disrupt that', Daan said. When Job mentioned they could have a lower
 rent if they would take up certain chores for the sake of the art
 factory, this was met with much protest. 'If those things don't happen
@@ -2607,15 +2579,14 @@ forms with the origins of the art factory, it was also an opportunity
 for both the tenants and Urban Resort to make the place they had created
 together more financially healthy and sustainable. The question, of
 course, is: will it also remain healthy and sustainable in terms of its
-creativity and its subversive practices? Will the musicians still be
-smoking marijuana in the hallways, and will an artist in-between
-residencies still feel free enough to sleep in her studio for a short
-time? Only time will tell.
+creativity and its subversive practices? Will the musicians still be smoking marijuana in the hallways,
+and will an artist in-between residencies still feel free enough to
+sleep in her studio for a short time? Only time will tell.
 
 ## The Volkshotel and Its Legacy
 
 At the official opening of the Volkshotel on June 27, 2014, Urban Resort
-and Cor van Zadelhoff shared a stage. Jaap Draaisma decided not to let
+and Cor van Zadelhoff shared the stage. Jaap Draaisma decided not to let
 the odd match go unnoticed for the large audience, and stated in his
 speech that he wanted to see the Volkshotel as a continuation of the
 alternative, affordable spaces of Amsterdam. Making references to Urban
@@ -2625,8 +2596,6 @@ pleased to be able to take a position, there and then, without
 attempting to make a compromise. Van Zadelhoff and us, we are very much
 aware of our opposite positions, yet we could share in the achievement
 of the Volkshotel'.
-
-<div class="streams"><hr class="streams" />Amsterdam needs a serious place with an international image, with a decent club.<hr class="streams" /></div>
 
 Apart from the smaller art factory in the back wing and the hotel, for
 which some tenants designed the interior of a few special rooms, the
@@ -2641,8 +2610,8 @@ Canvas when it was just starting out in 2007. This organic pulling
 together of loosely connected actors and scenes is what the Volkskrant
 building eventually did best. Staying rooted in an activist background
 while listening to the heartbeat of the ever renewing creative scene
-became its most defining feature. With the aim to generate a very steep
-return on investment of nine percent a year, it seems clear that the
+became its most defining feature. with the aim of generating a very steep return on
+investment, it seems clear that the
 character of the Volkshotel will be rather different from the old
 Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
@@ -2666,7 +2635,7 @@ us to the notion of performative defiance as a way of understanding the
 trajectory the Volkskrant building has taken with regard to the initial
 ideological ambitions of the ex-squatters of Urban Resort. Performative
 defiance, we argue, describes the mode of engagement with the political
-and economic realities that, more or less, consciously accepts the
+and economic realities that, more or less consciously, accepts the
 likelihood of its own failure, yet understands it in terms of *failing
 forward.* This is to say that while working towards a likely point at
 which the project is co-opted by forces one cannot control anymore (and
@@ -2725,8 +2694,8 @@ other, more realistic motivations and objectives guiding the setup of a
 creative hub. A possible alternative starting point could be found in
 the provision of work space that is affordable for autonomous (art)
 practitioners, as well as a way to open up the functionality of
-creativity as business towards creative disruption understood strictly
-in the non-Californian sense of the term.[^40]
+creativity as business towards creative disruption understood strictly in the artistic and non-Californian sense of
+the term.[^40]
 
 <div class="streams"><hr class="streams" />Positive contingencies and valuable encounters should, and will be, a great side effect, yet there should be other, more realistic motivations and objectives guiding the setup of a creative hub.<hr class="streams" /></div>
 
@@ -2872,18 +2841,19 @@ failing forward lies in their defiance of policy makers, city
 planners, and experts who always already know what the best
 infrastructures are 'for the people'. This is social innovation as a
 form of active, participatory citizenship that today, it seems to us,
-will always have to have a strong hold in an ethos of *performative
-defiance* as well.
+will always have to have a strong hold in an ethos of performative
+defiance as well.
 
 <div class="streams"><hr class="streams" />Failing forward, could then be described as a mode of activism defined by the ethos of performative defiance.<hr class="streams" /></div>
 
-In continuing to *fail forward*, Urban Resort makes a crucial
+In continuing to fail forward, Urban Resort makes a crucial
 contribution to the contemporary struggle for our cities. The defiance
 they, as well as other initiatives and projects show — in Amsterdam these
 would include collectives such as OT301, Schijnheilig, De Valreep and a
-number of others — shows a bit of the future of urban politics as
-citizen’s craft. This is even more important because defiant citizenship
-is also dependent on such spaces to emerge. Our societies need
+number of others — point to a possible future of urban politics as citizen’s craft.
+This is even more important because the emergence of defiant
+citizenship depends on the existence of such
+spaces. Our societies need
 infrastructures where ‘alternative’ — for lack of a better term — social
 practices can be *experienced* and experimented with. This is even more
 important as we stand on the eve of an enormous roll-out of smart city
@@ -3001,7 +2971,7 @@ understands as the precondition for the virtuosity of the citizen in
 shaping social relations to his fellow citizens. The experience of
 making a unique contribution through one’s engagement with matter,
 generates the self-consciousness necessary for a meaningful
-participation in the polis.
+participation.
 
 However, Sennett’s motivation for writing a book on craftsmanship lies
 in his conviction that the rapid devaluation of craftsmanship over the
@@ -3030,9 +3000,8 @@ not useful to them. The virtuosity that is necessary to navigate today’s
 economic, as well as political, terrain is one totally different from
 the one Sennett has in mind. It is neither the virtuosity of a bygone
 era of crafting, nor is it the virtuosity of the factory and the big
-office — if such a thing ever existed. It is a new kind of virtuosity. And
-this of course has implications for the contemporary practice of
-citizenship.
+office — if such a thing ever existed. It it a new kind of virtuosity and this has implications for
+the contemporary practice of citizenship.
 
 ## Virtuosity
 
@@ -3101,7 +3070,7 @@ value today takes place in a proto-political arena of instant
 communicative presence and connection, the *citoyen* merges with the
 *bourgeois* into the 21st century figure of the new virtuoso. For the
 new virtuoso, the idea of politics and economy being clearly divided
-social spheres has become obsolete. His breeding ground and habitat is a
+social spheres has become obsolete. Her or his breeding ground and habitat is a
 plane of political-economic topology, best described as a practical
 Mobius strip where one is always on both sides at the same time.
 
@@ -3138,8 +3107,8 @@ quest for *Übungsräume* that provide training grounds for the kind of
 virtuosity that is able to topologically transform precarity into
 networked strength. Instead of a para-political practice turned into
 intensified social labor for corporate exploitation, a more emancipative
-form of participation in the polis is rendered possible by way of
-topological practice.
+form of participation in society is rendered possible by way of
+performative defiance.
 
 All this is still a far cry away from a perfect model of an
 infrastructure for 21st century virtuosity. Among other things, it begs
@@ -3384,13 +3353,13 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
     1’, *YouTube*, 1 June 2007,
     <http://www.youtube.com/watch?v=Wyv-n\_J-YE8>.
 
-[^23]: Fred Triep, ‘Presentation of the International Amsterdam Group
-    1’.
+[^23]: Gehrke, Sarah 'Very well bred: Newspaper building re-opens as an urban
+resort for the arts', *Amsterdam Weekly,* 27 September – 3 October 2007.
 
 [^24]: Saskia Sassen, *The Global City: New York, London, Tokyo*,
     Princeton: Princeton University Press, 2013.
 
-[^25]: Manfred Ertel, 'Amsterdam', *Der Spiegel*, 20 August 2007*.*
+[^25]: Manfred Ertel, 'Amsterdam', *Der Spiegel*, 20 August 2007.
 
 [^26]: Ertel, 'Amsterdam'.
 
@@ -3432,7 +3401,7 @@ en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
 [^38]: Steven Verseput, 'Broedplaatsen voor zakelijke vrijdenkers', *NRC
     Handelsblad*, 6 March 2013.
 
-[^39]: Sebastian Olma, 'Die Topologisierung der Werterschoepfung', in
+[^39]: Sebastian Olma, 'Die Topologisierung der Wertschoepfung', in
     Bastian Lange and Malte Bergmann (eds) *Eigensinnige Geographien*,
     Wiesbaden: VS Verlag, 2011. Sebastian Olma and Tonia Welter, *Das
     Beta-Prinzip: Coworking und die Zukunft der Arbeit*, Berlin:
