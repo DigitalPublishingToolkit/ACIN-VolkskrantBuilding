@@ -105,6 +105,6 @@ a {
 a.footnoteRef {
 vertical-align: super;
 line-height: normal;
-font-size: smaller;
+font-size: 0.5em;
 }
 
