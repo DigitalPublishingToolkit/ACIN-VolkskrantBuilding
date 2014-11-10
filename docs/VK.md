@@ -46,7 +46,10 @@ Amsterdam, November 2014
 
 **ISBN** 978-94-92171-01-6 (EPUB)
 
-<!-- LOGOS -->
+![](media/logo_HVA.png)
+![](media/logo_ACICE.png)
+![](media/logo_KnowledgeMile.png)
+![](media/logo_urbanresorts.png)
 
 
 # Contents
@@ -3038,7 +3041,7 @@ Mobius strip where one is always on both sides at the same time.
 
 ## Conclusion
 
-<!--![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)-->
+![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)
 
 # Reference List
 

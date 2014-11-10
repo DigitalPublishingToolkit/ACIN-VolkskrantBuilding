@@ -1,10 +1,8 @@
-<dc:identifier id="epub-id-1">urn:isbn:??????</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:978-94-92171-01-6</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
 <dc:title id="epub-title-1">The Volkskrant Building: Manufacturing Difference in Amsterdam’s
 Creative City</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
-<dc:title id="epub-title-2">???</dc:title>
-<meta refines="#epub-title-2" property="title-type">collection</meta>    
 <dc:publisher>Amsterdam Creative Industries Publishing</dc:publisher>    
 <dc:date id="epub-date">November 2014</dc:date>
 <dc:language>en-US</dc:language>
@@ -14,13 +12,37 @@ Creative City</dc:title>
 <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
 <dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-2">Rose Leighton</dc:contributor>
+<dc:contributor id="epub-contributor-2">Margarita Osipian</dc:contributor>
 <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-3">UNDOG</dc:contributor>
 <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
 <dc:contributor id="epub-contributor-4">André Castro</dc:contributor>
 <meta refines="#epub-contributor-4" property="role" scheme="marc:relators">dsr</meta>
-<dc:subject>??</dc:subject>
-<dc:description>??</dc:description>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+<dc:subject>creative class, city, Amsterdam, Volkskrant Building, capital, Sebastian Olma, Boukje Cnossen, Amsterdam Creative Industries Network, creative industries, Hogeschool van Amsterdam, Knowledge Mile, squatting, movement, history, scene, entrepreneur, artists, activism, property developer, hotel, infrastructure, citizenship, creativity, municipality, art factory, broedplaats, club, eighties, transformation, network, production, Richard Sennett, Peter Sloterdijk, philosophy, interviews</dc:subject>
+<dc:description>The Volkskrant building more than any other place exemplifies
+Amsterdam’s transformation into a ‘creative city’ over the past fifteen
+years. Boukje Cnossen and Sebastian Olma trace the history of this
+infamous and inspiring place from its deep roots in the squatting heyday
+of the eighties to its present renaissance as the Volkshotel. The focus
+of their entertaining yet rigorous analysis is the period from 2007 to
+2014 when the Volkskrant building hosted an art factory (<i>broedplaats</i>)
+run by the former squatters collective Urban Resort.
+
+Artists, activists, city officials, entrepreneurs, and property
+developers share their stories of the good times and the struggles in
+and around the Volkskrant building. How did a group of former squatters
+turn it into a place for both creative entrepreneurship and subversion?
+And how could it happen that this countercultural project ended up
+attracting the attention of one of the largest property investors in the
+Netherlands?
+
+This detailed inquiry into the practices and interests shaping the
+epicenter of Amsterdam's creative scene provides a look behind the shiny
+façade of creative city policy. The authors show how the Volkskrant
+building came to be more than a space for creativity alone, as it opened
+up the possibility for a new infrastructure of citizenship.
+</dc:description>
+
+
 
