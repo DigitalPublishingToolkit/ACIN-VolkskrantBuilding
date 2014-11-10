@@ -1,6 +1,6 @@
-<!--COVER -->
+<div class="cover"><img src="media/cover.png" class="cover" /></div>
 
-<!--Title Page -->
+<div class="cover"><img src="media/titlepage.png" class="cover" /></div>
 
 
 # Colophon
@@ -3038,51 +3038,7 @@ Mobius strip where one is always on both sides at the same time.
 
 ## Conclusion
 
-![The opening party of the Volkshotel. Picture: Louk Heimans.](media/image9.png)
-
-The good news is that all over the global metropolis, one can observe
-experiments in building such topologies where the multitudinous powers
-of invention find their virtuous expressions. There are elements of such
-a topological reinvention of *bourgeois/citoyen* to be found in
-movements such as slow food, city farming, transition towns, guerrilla
-gardening, and indeed in the making of autonomous spaces while having to
-interact with existing legislation and funding schemes, as Urban Resort
-did with the Volkskrant building. From a new generation of squatters to
-digital bohemians, there is a network of topological laboratories
-specializing in bottom-up social restructuring. Of course, this
-development is still in its early stages and there is also always the
-possibility for the eroding institutions of industrial discipline and
-asceticism to be replaced by structures of a digital police state and/or
-neoliberal market-arrangements.
-
-<div class="streams"><hr class="streams" />This lack of what Sloterdijk would call Übungsraum is clearly one of the reasons for our current political and cultural disorientation.<hr class="streams" /></div>
-
-What is at stake then, in experiments such as the Volkskrant building,
-is the evolution of Sennett’s old craftsman shop into a topology of
-contemporary virtuosity. With reference to Sennett and Virno, it seems
-evident that a space like the Volkskrant building indeed took on many of
-the facets one would expect from a contemporary equivalent of the
-craftsman’s workshop. The lessons of the Volkskrant building, that we
-tried to record in this book, are a valuable input in the important
-quest for *Übungsräume* that provide training grounds for the kind of
-virtuosity that is able to topologically transform precarity into
-networked strength. Instead of a para-political practice turned into
-intensified social labor for corporate exploitation, a more emancipative
-form of participation in society is rendered possible by way of
-performative defiance.
-
-All this is still a far cry away from a perfect model of an
-infrastructure for 21st century virtuosity. Among other things, it begs
-the question of how such topologies of citizenship might be extended to
-those parts of the multitude that are clearly underrepresented in
-co-working spaces and art factories, such as migrants and those less
-well-versed in the ways of contemporary entrepreneurial virtuosity. The
-example of the Volkskrant building is far from providing the final
-answer to this question, but it has offered a trajectory of *failing
-forward* which may provide a basis for those courageous enough to take
-up the task themselves.
-
-![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)
+<!--![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)-->
 
 # Reference List
 
