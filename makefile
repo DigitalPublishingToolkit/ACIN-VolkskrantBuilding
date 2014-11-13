@@ -4,7 +4,7 @@ VK.epub:
 	--from markdown \
 	--to epub3 \
 	--self-contained \
-	--epub-chapter-level=1 \
+	--epub-chapter-level=2 \
 	--toc-depth=2 \
 	--epub-cover-image=media/cover.png \
 	--epub-metadata=metadata.xml \
