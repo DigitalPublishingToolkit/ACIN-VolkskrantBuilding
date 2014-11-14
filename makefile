@@ -15,7 +15,7 @@ VK.epub:
 	--epub-embed-font=fonts/VAGRoundedStd-Thin.otf \
 	--default-image-extension png \
 	-o VK.epub \
-	VK.md &&\
+	VK.md  &&\
 	python ../scripts/epub_post.py VK.epub
 
 

@@ -34,7 +34,7 @@ def fn_rm_sup(tree, element):
         for child in list(fn):
             if child.tag == 'sup':                
                 number = child.text
-                print child
+#                print child
 #                child.clear() # STILL LEAVING </sup>
                 fn.remove(child)
                 fn.text=number
