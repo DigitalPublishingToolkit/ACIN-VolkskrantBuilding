@@ -12,15 +12,14 @@ The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
 
 # make VolkskrantBuilding.epub Part I
 ## Introducution
-In this blog post I will describe the process that led to the creation of the EPUB for the publication [The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City]() by Boukje Cnossen and Sebastian Olma, published by Amsterdam Creative Industries Publishing. 
+In this blog post I will describe the process that led to the creation of the publication [The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City]() (TVB) by Boukje Cnossen and Sebastian Olma, as a digital book in EPUB3 format. I will be paying special attention on the use of Markdown as source files, Pandoc as markup converter software, Git as revision system, and most importantly Makefiles. I will attempt to demonstrate how all these individual resources can be combined to form one, or several, simple and yet powerful recipes which can greatly simplify and speedup the development of an EPUB, from manuscript to its final publishable form.
 
-> (I will pay special attention on the use of a markdown source files, makefiles and version control, as these elements allow for a very fast and lean workflow for the production of an EPUB).
 
 ## Premises
-From the onset we knew that this book had to go from manustript to its two output format, EPUB and paper book, in little more than one week.
-We were starting from good position. The manuscript, a docx file, was in its final form and had been carefully edited, so that the text formating was accomplished only through styles, as described by Miriam Rash in the [Style Guide for Hybrid Publishing blog post](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/). This consistant formating of the manuscript allows the conversion of the manuscript to other formats, necessary for the creation of the EPUB, much simpler and seamingless.
+From the onset we knew that TVB had to go from manustript to its two output format &ndash; EPUB and paper book &ndash; in little more than one week.
+We were starting from good position. The manuscript, a .docx file, was in its final form and had been carefully edited, which meant that the all the text formatting was accomplished through styles, as described by Miriam Rash in the [Style Guide for Hybrid Publishing blog post](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/). This consistency of the manuscript allows for a straightforward conversion of the manuscript into other formats, such as Markdown, necessary for the creation of the EPUB, within the [workflow](http://networkcultures.org/digitalpublishing/2014/10/07/hybrid-workflow-how-to-introduction-editing-steps/) INC is trying to implement in the production of its publications.
 
-Despite this advantage the short time span for the creation of The Volkskrant Bulding publication was still a challange. The design studio &ndash; [UNDOG](http://www.undog.nl/) &ndash responsible for the book's design and paper edition, was working working on the identity of the book, at the same time that I was developing the EPUB. This meant that I follow the studio lead, wait for its work to be completed, and only then apply it to the EPUB edition of the book. This work dynamic for the production of books is highly questionable, for many reasons, among them its inneficianty and imposition of top-down dynamic in the creation of the book visual identity, instead of more collaborative and equalitarian approachs, but that is in itself subject for another blog post.
+Despite this advantage, the short time span available for the production of TVB was still a challenge. The design studio &ndash; [UNDOG](http://www.undog.nl/) &ndash responsible for the book's design and paper edition, was working on the identity of the book, at the same time that I was developing the EPUB. This meant I had to follow the studio's lead, wait for its work to be completed, and only then apply the same identity to the EPUB edition of the TVB. The choice for such dynamic, for the production of books in multiple formats is highly questionable, for many reasons, among them its inefficiency and imposition of top-down dynamic, instead of more collaborative and egalitarian approach between all of those involved in the creation of a book, but that is in itself subject for another blog post.
 
 > * He has treating the images, and creating the visual identity for the book
 >    * I had to follow his lead, wait for his work to be done, 
@@ -38,18 +37,18 @@ Despite this advantage the short time span for the creation of The Volkskrant Bu
 >    
 > Editor did great work at correctly formatting the manuscript
 
-
 ## the workflow
 ### description
-For all these reasons the production of the EPUB called for a lean, organized and fast workflow, much faster and direct that I had so far experienced with the production of the  [Network Notebooks EPUBS](http://networkcultures.org/publications/#netnotebook). I decided to try out the workflow that is being developed inside the Digital Publishing Toolkit Project and is currently being applied in the creation of the (Hybrid Publishing Toolkit for the Arts)[https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts] publication.
+For all these reasons the production of the EPUB called for a lean, organized and fast workflow. It had to be created in a much shorter time span and direct than I had experienced so far, with the production of the  [Network Notebooks EPUBS](http://networkcultures.org/publications/#netnotebook). I decided to try out the workflow that is being developed inside the Digital Publishing Toolkit Project and is currently being applied in the creation of the [Hybrid Publishing Toolkit for the Arts](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) publication.
 
-In addition to use of:
-* [Markdown](http://daringfireball.net/projects/markdown/syntax): as the source file format, where most of prepatory work necessary generting and error-free EPUB done;
-* [Pandoc](http://johnmacfarlane.net/pandoc/): as the conversion software, that translates files between different markup languages (from .docx to mardown to .epub);
-* [Git](http://git-scm.com/): as the versioning system that track the history of changes of the files involved in the process;
-I chose to also use a makefile, in a similar way as Michael Murtaugh desbribes in [Make Book blog post](http://networkcultures.org/digitalpublishing/2014/10/01/make-book/). The makefile became center of operations that compiled all the source files &ndash; not only the text, but images, metadata, font files, and a css stylesheet &ndash, addressed them to pandoc, in order to produce the target EPUB file. 
+As common to my working method, I employed the following tools:
+* [Markdown](http://daringfireball.net/projects/markdown/syntax) source-files: a plain-text markup language, used to do most of the preparatory work on the book's text, necessary generating an error-free EPUB;
+* [Pandoc](http://johnmacfarlane.net/pandoc/): the conversion software, that translates files between different markup languages, in this case from .docx to Mardown, and then from Markdown to EPUB3);
+* [Git](http://git-scm.com/): the revision system that tracks the history of changes the sources files and scripts necessary to the production of the EPUB undergo.
 
-Here is how does the makefile looks:
+Yet, in addition to them I chose to also use a Makefile, as described by Michael Murtaugh in [Make Book blog post](http://networkcultures.org/digitalpublishing/2014/10/01/make-book/). The Makefile became center of operations that compiled all the source files &ndash; not only the text, but images, metadata, font files, css stylesheets &ndash and addressed them to Pandoc, in order to produce the target EPUB file. 
+
+Here is how does the Makefile used in the production of TVB EPUB looks like:
 
 `
 VK.epub: 
@@ -70,6 +69,7 @@ VK.epub:
 	-o VK.epub \
 	VK.md
 `
+
 > X You can see that it ask pandoc not only to convert the markdown file VK.md into an EPUB3 format under the filename VK.epub, but that it indicates that supplies the EPUB withspecific cover image, metadata, s   
 
 In order to convert that markdown file into a full-fledged EPUB I only had to run: `make VK.epub`
