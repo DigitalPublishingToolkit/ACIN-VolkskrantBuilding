@@ -2,21 +2,21 @@
     font-family: 'VAGRoundedStd-Light';
     font-weight: normal;
     font-style: normal;
-    src:url('fonts/VAGRoundedStd-Light.otf')format("opentype");
+    src:url('VAGRoundedStd-Light.otf')format("opentype");
 }
 
 @font-face{
     font-family: 'VAGRoundedStd-Thin';
     font-weight: lighter;
     font-style: normal;
-    src:url('fonts/VAGRoundedStd-Thin.otf')format("opentype");
+    src:url('VAGRoundedStd-Thin.otf')format("opentype");
 }
 
 @font-face{
     font-family: 'VAGRoundedStd-Bold';
     font-weight: bold;
     font-style: normal;
-    src:url('fonts/VAGRoundedStd-Bold.otf')format("opentype");
+    src:url('VAGRoundedStd-Bold.otf')format("opentype");
 }
 
 
@@ -24,7 +24,7 @@
     font-family: 'VAGRoundedStd-Black';
     font-weight: normal;
     font-style: normal;
-    src:url('fonts/VAGRoundedStd-Black.otf')format("opentype");
+    src:url('VAGRoundedStd-Black.otf')format("opentype");
 }
 
 
