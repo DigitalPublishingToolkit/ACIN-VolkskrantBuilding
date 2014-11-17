@@ -4,7 +4,7 @@ VK.epub:
 	--from markdown \
 	--to epub3 \
 	--self-contained \
-	--epub-chapter-level=2 \
+	--epub-chapter-level=1 \
 	--toc-depth=2 \
 	--epub-cover-image=media/cover.png \
 	--epub-metadata=metadata.xml \
@@ -14,8 +14,9 @@ VK.epub:
 	--epub-embed-font=fonts/VAGRoundedStd-Light.otf \
 	--epub-embed-font=fonts/VAGRoundedStd-Thin.otf \
 	--default-image-extension png \
-	-o VK-test.epub \
+	-o VK.epub \
 	VK.md  &&\
-	python ../scripts/epub_post.py VK.epub
+	cp VK.epub VK_post.epub &&\
+	python ../scripts/epub_post.py VK_post.epub
 
 

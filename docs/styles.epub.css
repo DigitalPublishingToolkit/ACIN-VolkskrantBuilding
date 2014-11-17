@@ -31,6 +31,8 @@
 body{
     font-size: 10pt;
     font-family: VAGRoundedStd-Thin;
+    hyphens: none
+    -webkit-hyphens:none;
 }
 
 
@@ -48,6 +50,8 @@ p {
     orphans: 2;
     widows: 2;
 }
+
+
 
 
 
@@ -143,7 +147,8 @@ a:hover { color: #f23f4e;
     font-weight: bold;
     font-size: 1.15em;
     color: #f23f4e;
-
+    -webkit-hyphens:none;
+    hyphens: none
     }
 
 
@@ -169,3 +174,6 @@ ul {
  list-style-type: none;
  list-style: none; 
 }
+
+
+h1, h2, h3 {-webkit-hyphens:none;}

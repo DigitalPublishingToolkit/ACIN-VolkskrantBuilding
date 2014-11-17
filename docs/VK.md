@@ -1,75 +1,3 @@
-![](media/titlepage.png)
-
-## Colophon
-
-<hr />
-
-**Boukje Cnossen and Sebastian Olma,\
-The Volkskrant Building:
-Manufacturing Difference in Amsterdam’s Creative City**
-
-**Production** Miriam Rasch
-
-**Design** UNDOG, Amsterdam
- 
-**EPUB development** André Castro
-
-**Copy-editor** Margarita Osipian
-
-**Printer** Offsetdrukkerij Nuance
-
-**Publisher** Amsterdam Creative Industries Publishing
-
-**Supported by** Amsterdam University of Applied Sciences (Hogeschool
-van Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
-Broedplaatsen (Municipality of Amsterdam), Institute of Network
-Cultures.
-
-**Cover image** A door of one of the studios in the art factory.
-Picture by Tanja Sihvonen.
-
-**Photography** Bambos Demetriou, Louk Heimans, Raymond van Mil, Tanja Sihvonen, Unknown.
-
-
-
-**Contact** Amsterdam Creative Industries Publishing,
-[www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)
-
-
-EPUB and PDF editions of this publication are freely downloadable from
-our website.
-
-
-This publication is licensed under Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
-To view a copy of this license, visit [creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Amsterdam, November 2014
-
-**ISBN** 978-94-92171-00-9 (print)
-
-**ISBN** 978-94-92171-01-6 (EPUB)
-
-![](media/logo_KnowledgeMile.png)
-![](media/logo_ACICE.png)
-![](media/logo_HVA.png)
-![](media/logo_urbanresorts.png)
-
-
-## Contents
-
-<hr />
-
--   **[Introduction: A Story of Transformation](#introduction-a-story-of-transformation)**
--   **[Origins: Spring 2007 and Before](#origins-spring-2007-and-before)**
--   **[Cash-Stripped Bohemia: 2007-2009](#cash-stripped-bohemia-2007-2009)**
--   **[Networks of Creative Production: 2009-2013](#networks-of-creative-production-2009-2013)**
--   **[Enter the Volkshotel – 2013 and Onwards](#enter-the-volkshotel-2013-and-onwards)**
--   **[Conclusion: Failing Forward](#conclusion-failing-forward)**
-
-![Announcement warning against theft in one of the hallways of
-the buildings. Picture: Tanja Sihvonen.](media/image1.png)
-
 ## The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
 
 <hr />
@@ -117,8 +45,64 @@ has built the Creative Industries Research Centre (CIRCA). He currently
 is a senior research fellow at the Institute of Network Cultures.
 
 
-## Acknowledgements
+![](media/titlepage.png)
 
+## Colophon
+<hr />
+
+**Boukje Cnossen and Sebastian Olma,\
+The Volkskrant Building:
+Manufacturing Difference in Amsterdam’s Creative City**
+
+**Production** Miriam Rasch<br/>
+**Design** UNDOG, Amsterdam<br/>
+**EPUB development** André Castro<br/>
+**Copy-editor** Margarita Osipian<br/>
+**Printer** Offsetdrukkerij Nuance<br/>
+**Publisher** Amsterdam Creative Industries Publishing, Rose Leighton<br/>
+**Supported by** Amsterdam University of Applied Sciences (Hogeschool
+van Amsterdam), Stichting Urban Resort, University of Amsterdam, Bureau
+Broedplaatsen (Municipality of Amsterdam), Institute of Network
+Cultures.<br/>
+**Cover image** A door of one of the studios in the art factory.
+Picture by Tanja Sihvonen.<br/>
+**Photography** Bambos Demetriou, Louk Heimans, Raymond van Mil, Tanja Sihvonen, Unknown.
+
+**Contact** Amsterdam Creative Industries Publishing,
+[www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)
+
+EPUB and PDF editions of this publication are freely downloadable from
+our website.
+
+This publication is licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+To view a copy of this license, visit [creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Amsterdam, November 2014
+
+**ISBN** 978-94-92171-00-9 (print)<br/>
+**ISBN** 978-94-92171-01-6 (EPUB)
+
+![](media/logo_KnowledgeMile.png)
+![](media/logo_ACICE.png)
+![](media/logo_HVA.png)
+![](media/logo_urbanresorts.png)
+
+
+## Contents
+<hr />
+
+-   **[Introduction: A Story of Transformation](#introduction-a-story-of-transformation)**
+-   **[Origins: Spring 2007 and Before](#origins-spring-2007-and-before)**
+-   **[Cash-Stripped Bohemia: 2007-2009](#cash-stripped-bohemia-2007-2009)**
+-   **[Networks of Creative Production: 2009-2013](#networks-of-creative-production-2009-2013)**
+-   **[Enter the Volkshotel – 2013 and Onwards](#enter-the-volkshotel-2013-and-onwards)**
+-   **[Conclusion: Failing Forward](#conclusion-failing-forward)**
+
+![Announcement warning against theft in one of the hallways of
+the buildings. Picture: Tanja Sihvonen.](media/image1.png)
+
+## Acknowledgements
 <hr />
 
 First and foremost we would like to thank Urban Resort for their support
