@@ -60,34 +60,6 @@ def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
         tag.extend(new_fig_tag) # insert into figure
 
 
-
-def figure(tree, element): # insert class fig inside to figure, img, figcaption, so they stay together
-# use css avoi-page-break
-
-    print '     adding <div class="fig"> to <figure>'
-    for tag in tree.findall(element):
-        figure = tag.find('./figure')
-        img = tag.find('./img')  # find child elements' atrib
-        img_src = img.get('src')
-        figcaption = tag.find('./figcaption') #to img alt & figcaption text
-        if figcaption is not None:
-            figcaption_txt = figcaption.text
-        else:
-            figcaption_txt = ""
-        tag.clear() # clear child elements
-        new_fig = ''' <figure>
-  <div class="fig">	      
-  <img class="fig" src="{src}"
-  alt="{caption}" />
-  </div>
-  <figcaption>{caption}</figcaption>
-</figure>
-'''.format(src=(img_src.encode('utf-8')), caption=(figcaption_txt.encode('utf-8'))) # new children
-        new_fig = new_fig.replace('&', '&amp;')
-        new_fig_tag = ET.fromstring(new_fig)
-
-
-
 temp_ls=os.listdir("temp/")
 
 
@@ -99,7 +71,6 @@ for f in temp_ls: # 2.1: loop content files
         xhtml = open("temp/"+f, "r") # open and parse
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
 
-#        figure(xhtml_parsed, './/figure') 
         fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
 
         html = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n' + ET.tostring(xhtml_parsed, method="xml", encoding="utf-8")

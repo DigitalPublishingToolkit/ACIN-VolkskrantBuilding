@@ -1,4 +1,4 @@
-## The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
+# The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City
 
 <hr />
 
@@ -47,7 +47,7 @@ is a senior research fellow at the Institute of Network Cultures.
 
 ![](media/titlepage.png)
 
-## Colophon
+# Colophon
 <hr />
 
 **Boukje Cnossen and Sebastian Olma\
@@ -89,7 +89,7 @@ Amsterdam, November 2014
 ![](media/logo_urbanresorts.png)
 
 
-## Contents
+# Contents
 <hr />
 
 -   **[Introduction: A Story of Transformation](#introduction-a-story-of-transformation)**
@@ -101,10 +101,12 @@ Amsterdam, November 2014
 
 
 
+
+# Acknowledgements
+
 ![Announcement warning against theft in one of the hallways of
 the buildings. Photographer: Tanja Sihvonen.](media/image1.png)
 
-## Acknowledgements
 <hr />
 
 First and foremost we would like to thank Urban Resort for their support
@@ -127,11 +129,11 @@ their brilliant support and speed in turning our manuscript into a
 publication.
 
 # Introduction: A Story of Transformation
-<section class="figure">
+
 ![The entrance to the fifth floor of the art factory in the
 former Volkskrant building, built and painted by the tenants of this
 floor. Photographer: Tanja Sihvonen.](media/image2.png)
-</section>
+
 <hr />
 
 This book tells the story of the Volkskrant building and how it became
@@ -3060,8 +3062,8 @@ entrepreneurial virtuosity. The example of the Volkskrant building is far from p
 answer to this question, but it has offered a trajectory of failing forward which may provide a
 basis for those courageous enough to take up the task themselves.
 
-
-
+<section class="level2" id="empty">
+</section>
 ![Canvas as it looked throughout 2012 and 2013. Photographer: Tanja Sihvonen.](media/image10.png)
 
 # Reference List
@@ -3217,6 +3219,9 @@ Weickgenant, Joel. 'A Different Kind of Spin, After the News Has Gone',
 
 Zoelen, Bart van. 'Niet de zoveelste atelierbunker: Kraakveteranen huren
 en verhuren het Volkskrant-gebouw', *Het Parool*, 2 June 2007.
+
+
+
 
 [^1]: Jamie Peck, 'Recreative City: Amsterdam, Vehicular Ideas and the
     Adaptive Spaces of Creativity Policy', *Journal of Urban and
@@ -3420,3 +3425,9 @@ resort for the arts', *Amsterdam Weekly,* 27 September – 3 October 2007.
 
 [^56]: Robert Reich, *The Work of Nations*, New York: Vintage Books,
     1992.
+
+
+
+![](media/ACICE.png)
+
+[www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com)

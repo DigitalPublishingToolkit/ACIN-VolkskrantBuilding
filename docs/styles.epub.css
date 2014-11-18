@@ -103,20 +103,15 @@ div.cover, div.halftitle, div.title, div.publications, div#cover-image {
     text-align:center;
 }
 
-img.cover, img.halftitle, img.title{
-    /* max-width: 100%; */
-    /* max-height: 100%; */
-    /* width: auto; */
-    /* height: auto; */
+div#cover-image img, img#title, img#end{
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
 }
 
 
-div.fig{
-    width:100%;
-}
-
-
-img.fig {
+img{
     max-width:900px;
 }
 
@@ -192,9 +187,24 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 
  */
 
-
+section.level2#empty{
+    page-break-inside: avoid;
+}
 
 section.figure{
     background: #ffdbd7;
     padding: 10px;
 }
+
+body.references{
+    background: #ffdbd7;
+}
+
+/*  */
+body.end, section.end{
+    text-align: center;
+    font-size:1.8em;
+    color: #f23f4e;
+    background: #ffdbd7;
+}
+
