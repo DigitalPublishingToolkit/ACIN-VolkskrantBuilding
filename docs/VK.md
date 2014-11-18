@@ -99,6 +99,8 @@ Amsterdam, November 2014
 -   **[Enter the Volkshotel – 2013 and Onwards](#enter-the-volkshotel-2013-and-onwards)**
 -   **[Conclusion: Failing Forward](#conclusion-failing-forward)**
 
+
+
 ![Announcement warning against theft in one of the hallways of
 the buildings. Photographer: Tanja Sihvonen.](media/image1.png)
 
@@ -124,12 +126,12 @@ Publishing division of the Amsterdam Creative Industries Network for
 their brilliant support and speed in turning our manuscript into a
 publication.
 
+# Introduction: A Story of Transformation
+<section class="figure">
 ![The entrance to the fifth floor of the art factory in the
 former Volkskrant building, built and painted by the tenants of this
 floor. Photographer: Tanja Sihvonen.](media/image2.png)
-
-# Introduction: A Story of Transformation
-
+</section>
 <hr />
 
 This book tells the story of the Volkskrant building and how it became
@@ -415,9 +417,8 @@ this book, it is precisely in deciphering the meaning of the adjective
 'interesting' that we find clues about the value of places like the
 Volkskrant building.
 
-![One of the remaining squats in the Spuistraat, situated in the city center of Amsterdam.](media/image4.png)
-
 # Origins: Spring 2007 and Before
+![One of the remaining squats in the Spuistraat, situated in the city center of Amsterdam.](media/image4.png)
 
 <hr />
 
@@ -929,11 +930,9 @@ hammocks were on the list of possible uses. Judging from these ideas, it
 is clear that they had no idea how sought-after every spot of the
 building would become.
 
-
+# Cash-Stripped Bohemia: 2007-2009
 ![People interested in renting a studio come listen to Jaap
 Draaisma during an open night.](media/image5.png)
-
-# Cash-Stripped Bohemia: 2007-2009
 
 <hr />
 
@@ -1562,10 +1561,9 @@ alternative about that, it was just smart’. But it was not until several
 years of the art factory's first steps towards fame, that it would
 become clear exactly how smart their choice for this building had been.
 
-![During the Transvormers Festival, one of the tenants presented a project in which she invited visitors to help her bring the model building she had built to life. Photographer: Bambos Demetriou.](media/image6.png)
-
 
 # Networks of Creative Production: 2009-2013
+![During the Transvormers Festival, one of the tenants presented a project in which she invited visitors to help her bring the model building she had built to life. Photographer: Bambos Demetriou.](media/image6.png)
 
 <hr />
 
@@ -2129,10 +2127,11 @@ achieving their artistic goals if rents would have been higher. And finally, the
 nity could grow stronger and larger not only due to their own hard work but also because of
 Urban Resort’s flexibility in facilitating them.
 
-![The building on the night of its opening as the Volkshotel.
-Photographer: Raymond van Mil.](media/image7.png)
+
 
 # Enter the Volkshotel – 2013 and Onwards
+![The building on the night of its opening as the Volkshotel.
+Photographer: Raymond van Mil.](media/image7.png)
 
 <hr />
 
@@ -2574,9 +2573,9 @@ Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
 
 
-![The sign of night club Trouw through the window of an empty studio as tenants were moving out. Photographer: Tanja Sihvonen.](media/image8.png) 
 
 # Conclusion: Failing Forward
+![The sign of night club Trouw through the window of an empty studio as tenants were moving out. Photographer: Tanja Sihvonen.](media/image8.png) 
 
 <hr />
 

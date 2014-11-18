@@ -6,9 +6,7 @@ from xml.etree import ElementTree as ET
 import html5lib
 import argparse
 #####
-# EDITING TOOLKIT.EPUB AFTER ITS CREATION, TO:
-#
-# *
+# EDITING AFTER ITS CREATION, TO:
 ###
 
 ## STEP 1: unzip epub
@@ -26,8 +24,6 @@ fh.close()
 ## STEP 2:  Do Changes
 
 ### Changes defs
-
-
 def fn_rm_sup(tree, element):
     for fn in tree.findall(element):
 #        print ET.tostring(fn)
@@ -38,6 +34,57 @@ def fn_rm_sup(tree, element):
 #                child.clear() # STILL LEAVING </sup>
                 fn.remove(child)
                 fn.text=number
+
+def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
+    print '     adding <div class="fig"> to <figure>'
+    for tag in tree.findall(element):
+        figure = tag.find('./figure')
+        img = tag.find('./img')  # find child elements' atrib
+        img_src = img.get('src')
+        figcaption = tag.find('./figcaption') #to img alt & figcaption text
+        if figcaption is not None:
+            figcaption_txt = figcaption.text
+        else:
+            figcaption_txt = ""
+        tag.clear() # clear child elements
+        new_fig = ''' <figure>
+  <div class="fig">	      
+  <img class="fig" src="{src}"
+  alt="{caption}" />
+  </div>
+  <figcaption>{caption}</figcaption>
+</figure>
+'''.format(src=(img_src.encode('utf-8')), caption=(figcaption_txt.encode('utf-8'))) # new children
+        new_fig = new_fig.replace('&', '&amp;')
+        new_fig_tag = ET.fromstring(new_fig)
+        tag.extend(new_fig_tag) # insert into figure
+
+
+
+def figure(tree, element): # insert class fig inside to figure, img, figcaption, so they stay together
+# use css avoi-page-break
+
+    print '     adding <div class="fig"> to <figure>'
+    for tag in tree.findall(element):
+        figure = tag.find('./figure')
+        img = tag.find('./img')  # find child elements' atrib
+        img_src = img.get('src')
+        figcaption = tag.find('./figcaption') #to img alt & figcaption text
+        if figcaption is not None:
+            figcaption_txt = figcaption.text
+        else:
+            figcaption_txt = ""
+        tag.clear() # clear child elements
+        new_fig = ''' <figure>
+  <div class="fig">	      
+  <img class="fig" src="{src}"
+  alt="{caption}" />
+  </div>
+  <figcaption>{caption}</figcaption>
+</figure>
+'''.format(src=(img_src.encode('utf-8')), caption=(figcaption_txt.encode('utf-8'))) # new children
+        new_fig = new_fig.replace('&', '&amp;')
+        new_fig_tag = ET.fromstring(new_fig)
 
 
 

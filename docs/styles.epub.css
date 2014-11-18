@@ -62,6 +62,7 @@ h1,h2,h3,h4{
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
     adobe-hyphenate: none !important;
+    page-break-before: always;
     page-break-after: avoid;
     page-break-inside: avoid;
     margin: 0;
@@ -181,4 +182,19 @@ ul {
 section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
     font-size:1.8em;
     color: #f23f4e;
+}
+
+/* Images with pink backgorund at the start of chapters:
+
+* add them now below the chapter title
+* in the epub move them above the title
+* wrap them <section class="figure">
+
+ */
+
+
+
+section.figure{
+    background: #ffdbd7;
+    padding: 10px;
 }
