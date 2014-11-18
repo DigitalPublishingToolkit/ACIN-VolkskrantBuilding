@@ -66,7 +66,7 @@ Broedplaatsen (Municipality of Amsterdam), Institute of Network
 Cultures.<br/>
 **Cover image** A door of one of the studios in the art factory.
 Picture by Tanja Sihvonen.<br/>
-**Photography** Bambos Demetriou, Raymond van Mil, Tanja Sihvonen, Unknown.
+**Photography** Bambos Demetriou, Raymond van Mil, Tanja Sihvonen.
 
 **Contact** Amsterdam Creative Industries Publishing,
 [www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)

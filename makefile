@@ -15,8 +15,6 @@ VK.epub:
 	--epub-stylesheet=styles.epub.css \
 	--default-image-extension png \
 	-o VK.epub \
-	VK.md  &&\
-	cp VK.epub VK_post.epub &&\
-	python ../scripts/epub_post.py VK_post.epub
+	VK.md
 
 
