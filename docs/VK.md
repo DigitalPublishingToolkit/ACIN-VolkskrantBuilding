@@ -50,7 +50,7 @@ is a senior research fellow at the Institute of Network Cultures.
 ## Colophon
 <hr />
 
-**Boukje Cnossen and Sebastian Olma,\
+**Boukje Cnossen and Sebastian Olma\
 The Volkskrant Building:
 Manufacturing Difference in Amsterdam’s Creative City**
 
@@ -66,7 +66,7 @@ Broedplaatsen (Municipality of Amsterdam), Institute of Network
 Cultures.<br/>
 **Cover image** A door of one of the studios in the art factory.
 Picture by Tanja Sihvonen.<br/>
-**Photography** Bambos Demetriou, Louk Heimans, Raymond van Mil, Tanja Sihvonen, Unknown.
+**Photography** Bambos Demetriou, Raymond van Mil, Tanja Sihvonen, Unknown.
 
 **Contact** Amsterdam Creative Industries Publishing,
 [www.amsterdamcreativeindustries.com](http://www.amsterdamcreativeindustries.com/)
@@ -100,7 +100,7 @@ Amsterdam, November 2014
 -   **[Conclusion: Failing Forward](#conclusion-failing-forward)**
 
 ![Announcement warning against theft in one of the hallways of
-the buildings. Picture: Tanja Sihvonen.](media/image1.png)
+the buildings. Photographer: Tanja Sihvonen.](media/image1.png)
 
 ## Acknowledgements
 <hr />
@@ -126,7 +126,7 @@ publication.
 
 ![The entrance to the fifth floor of the art factory in the
 former Volkskrant building, built and painted by the tenants of this
-floor. Picture: Tanja Sihvonen.](media/image2.png)
+floor. Photographer: Tanja Sihvonen.](media/image2.png)
 
 # Introduction: A Story of Transformation
 
@@ -179,7 +179,7 @@ century, when Amsterdam was the economic center of the world, and
 resurfaced in a completely different way in 1967 during what became
 known as the Summer of Love. Some places are still trying to maintain
 some of the city's characteristic craziness. The Volkskrant building
-was &ndash; and hopefully will continue to be — one of them.
+was &ndash; and hopefully will continue to be &ndash; one of them.
 
 <div class="streams"><hr class="streams" />The building was a nexus of the dreams, struggles and realities involved in Amsterdam’s emergence as one of Europe’s most paradigmatic creative cities.<hr class="streams" /></div>
 
@@ -291,7 +291,7 @@ strange fringes of mainstream culture. This limited vision of creativity
 is an omission in many European cities, but in Amsterdam it is an insult
 to the city's history. It is no exaggeration to say that the
 contemporary art and culture scenes owe a substantial part of their
-existence to the past and &ndash; now illegal — present squatter scenes and their
+existence to the past and &ndash; now illegal &ndash; present squatter scenes and their
 adjacent networks.
 
 <div class="streams"><hr class="streams" />The most radical innovations do not come out of shiny offices but are forged on the strange fringes of mainstream culture.<hr class="streams" /></div>
@@ -1562,7 +1562,7 @@ alternative about that, it was just smart’. But it was not until several
 years of the art factory's first steps towards fame, that it would
 become clear exactly how smart their choice for this building had been.
 
-![During the Transvormers Festival, one of the tenants presented a project in which she invited visitors to help her bring the model building she had built to life. Picture: Bambos Demetriou.](media/image6.png)
+![During the Transvormers Festival, one of the tenants presented a project in which she invited visitors to help her bring the model building she had built to life. Photographer: Bambos Demetriou.](media/image6.png)
 
 
 # Networks of Creative Production: 2009-2013
@@ -1757,7 +1757,7 @@ The seven remaining floors, together about 10,000 square meters of
 usable surface, was comprised of the studios and offices of roughly
 three hundred people from the cultural and creative sector, as well as
 some non-profit organizations and the occasional accountant or
-consultant. It was a second &ndash; and sometimes clandestine first — home to
+consultant. It was a second &ndash; and sometimes clandestine first &ndash; home to
 painters, musicians, sound engineers, dance teachers, writers, internet
 startups, graphic designers, project managers, computer coders,
 communication experts, social enterprises, and filmmakers. On an average
@@ -1927,7 +1927,7 @@ the squatting movement as well.
 The draw for people from abroad was one aspect in which the Volkskrant
 building continued the legacy of the squatting days; another was the
 many activist initiatives that were connected to the building. In the
-light of culture &ndash; and creativity — driven urban regeneration, it had always
+light of culture &ndash; and creativity &ndash; driven urban regeneration, it had always
 been easier to frame the Volkskrant building as a creative place, but
 the fact is that it was also a political one. In 2008, the international
 peace day, organized by NGO Pax Christi, was held at the Volkskrant
@@ -2053,7 +2053,7 @@ practices, in the sense that even without success, the energy that is
 generated in the attempt is what makes the endeavor worthwhile. Of
 course, the big, fat irony of this comparison is that even with the
 risks for failure being high, the startup movement has made subversive
-entrepreneurialism &ndash; and the aesthetics that come with it — the
+entrepreneurialism &ndash; and the aesthetics that come with it &ndash; the
 non-subversive ideal type of neoliberal capitalism, whereas the
 the entrepreuner-squatters initially thought they 
 could get rid of capital altogether.
@@ -2130,7 +2130,7 @@ nity could grow stronger and larger not only due to their own hard work but also
 Urban Resort’s flexibility in facilitating them.
 
 ![The building on the night of its opening as the Volkshotel.
-Picture: Raymond van Mil.](media/image7.png)
+Photographer: Raymond van Mil.](media/image7.png)
 
 # Enter the Volkshotel – 2013 and Onwards
 
@@ -2574,7 +2574,7 @@ Volkskrant building. Let’s hope this difference is going to be an
 interesting one.
 
 
-![The sign of night club Trouw through the window of an empty studio as tenants were moving out. Picture: Tanja Sihvonen.](media/image8.png) 
+![The sign of night club Trouw through the window of an empty studio as tenants were moving out. Photographer: Tanja Sihvonen.](media/image8.png) 
 
 # Conclusion: Failing Forward
 
@@ -2808,7 +2808,7 @@ would include collectives such as OT301, Schijnheilig, De Valreep and a
 number of others &ndash; point to a possible future of urban politics as citizen’s craft. The emergence of defiant
 citizenship depends on the existence of such
 spaces. Our societies need
-infrastructures where ‘alternative’ &ndash; for lack of a better term — social
+infrastructures where ‘alternative’ &ndash; for lack of a better term &ndash; social
 practices can be *experienced* and experimented with. This is even more
 important as we stand on the eve of an enormous roll-out of smart city
 technology and digital agendas that threaten us city dwellers with an
@@ -3063,7 +3063,7 @@ basis for those courageous enough to take up the task themselves.
 
 
 
-![Canvas as it looked throughout 2012 and 2013. Picture: Tanja Sihvonen.](media/image10.png)
+![Canvas as it looked throughout 2012 and 2013. Photographer: Tanja Sihvonen.](media/image10.png)
 
 # Reference List
 

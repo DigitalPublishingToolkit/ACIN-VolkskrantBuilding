@@ -73,8 +73,9 @@ h1{
 }
 
 h2{
-    font-size:1.4em;
+    font-size: 1.2em;
     margin-top: 2em;
+    page-break-before: always;
 }
 
 
@@ -148,7 +149,8 @@ a:hover { color: #f23f4e;
     font-size: 1.15em;
     color: #f23f4e;
     -webkit-hyphens:none;
-    hyphens: none
+    hyphens: none;
+    page-break-inside: avoid;
     }
 
 
@@ -176,4 +178,7 @@ ul {
 }
 
 
-h1, h2, h3 {-webkit-hyphens:none;}
+section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
+    font-size:1.8em;
+    color: #f23f4e;
+}
