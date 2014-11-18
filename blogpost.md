@@ -41,12 +41,12 @@ Despite this advantage, the short time span available for the production of TVB 
 ### description
 For all these reasons the production of the EPUB called for a lean, organized and fast workflow. It had to be created in a much shorter time span and direct than I had experienced so far, with the production of the  [Network Notebooks EPUBS](http://networkcultures.org/publications/#netnotebook). I decided to try out the workflow that is being developed inside the Digital Publishing Toolkit Project and is currently being applied in the creation of the [Hybrid Publishing Toolkit for the Arts](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) publication.
 
-As common to my working method, I employed the following tools:
-* [Markdown](http://daringfireball.net/projects/markdown/syntax) source-files: a plain-text markup language, used to do most of the preparatory work on the book's text, necessary generating an error-free EPUB;
-* [Pandoc](http://johnmacfarlane.net/pandoc/): the conversion software, that translates files between different markup languages, in this case from .docx to Mardown, and then from Markdown to EPUB3);
-* [Git](http://git-scm.com/): the revision system that tracks the history of changes the sources files and scripts necessary to the production of the EPUB undergo.
+My usual method for creating EPUBs involves the following tools:
+* [Markdown](http://daringfireball.net/projects/markdown/syntax) source-files: a plain-text markup language, used to do most of the work on the book's text; It can perhaps be best described as a preparatory document to the generation of the EPUB, as all the essential content and structure of the EPUB is already present, under a much simpler form, in the Markdonwn.
+* [Pandoc](http://johnmacfarlane.net/pandoc/): the conversion software, that translates between different markup languages. In this case I converted firs the manuscript from .docx to Mardown, and then the source Markdown file to an EPUB3 ebook;
+* [Git](http://git-scm.com/): the revision system that tracks the history of changes, the sources files undergo during the production of the EPUB.
 
-Yet, in addition to them I chose to also use a Makefile, as described by Michael Murtaugh in [Make Book blog post](http://networkcultures.org/digitalpublishing/2014/10/01/make-book/). The Makefile became center of operations that compiled all the source files &ndash; not only the text, but images, metadata, font files, css stylesheets &ndash and addressed them to Pandoc, in order to produce the target EPUB file. 
+Yet, in addition to them I chose to also use a Makefile, much in a similar way as described by Michael Murtaugh in [Make Book blog post](http://networkcultures.org/digitalpublishing/2014/10/01/make-book/). The Makefile became center of operations that compiled all the source files &ndash; not only the text, but images, metadata, font files, css stylesheets &ndash and addressed them to Pandoc, in order to produce the target EPUB file. 
 
 Here is how does the Makefile used in the production of TVB EPUB looks like:
 
@@ -56,33 +56,34 @@ VK.epub:
 	--from markdown \
 	--to epub3 \
 	--self-contained \
-	--epub-chapter-level=2 \
+	--epub-chapter-level=1 \
 	--toc-depth=2 \
 	--epub-cover-image=media/cover.png \
 	--epub-metadata=metadata.xml \
 	--epub-stylesheet=styles.epub.css \
-	--epub-embed-font=fonts/VAGRoundedStd-Black.otf \
-	--epub-embed-font=fonts/VAGRoundedStd-Bold.otf \
-	--epub-embed-font=fonts/VAGRoundedStd-Light.otf \
-	--epub-embed-font=fonts/VAGRoundedStd-Thin.otf \
+	--epub-embed-font=VAGRoundedStd-Black.otf \
+	--epub-embed-font=VAGRoundedStd-Bold.otf \
+	--epub-embed-font=VAGRoundedStd-Light.otf \
+	--epub-embed-font=VAGRoundedStd-Thin.otf \
 	--default-image-extension png \
 	-o VK.epub \
 	VK.md
 `
 
+With this recipe and all its ingredients in place I, I only had to run: `make VK.epub` and a a full-fledged EPUB was produced. 
+
+> by calling pandoc to convert from Markdown to EPUB3, in a self-contained way, with chapter breaks every heading with level 1, produce a table of contents with a depth up to level 2 headings, using th cover image ... 
 > X You can see that it ask pandoc not only to convert the markdown file VK.md into an EPUB3 format under the filename VK.epub, but that it indicates that supplies the EPUB withspecific cover image, metadata, s   
 
-In order to convert that markdown file into a full-fledged EPUB I only had to run: `make VK.epub`
-
->    * in addition to: markdown, pandoc, git
->    * use of make files (described in MM blog post)
-
-
 ### positive aspects   
-This approach became quite useful and sped-up the process of development of the EPUB. 
-It allowed me to work only with the source files, run the make command, and review the resulting EPUB. 
+This approach, centered on a Makefile, became quite useful and sped-up the development of the EPUB.
+Its major strength relies in its ability to reduce my work focus to the source files. 
+It is as if the source files &ndash; the Markdown text files, images, metadata, CSS styles  &ndash; are the ingredients I need to cook this dish that is the EPUB.  
+If I want a specific result to come from the file recipe I will only need to change my ingredients and make the recipe with the command  `make VK.epub`
 
-This new approach was very different and much simpler than my usual working method. In my previous approach I'd created a rough EPUB with pandoc, unzip it and then start to work with its constituint files &ndash; entering the metadata, resources such the stylesheet or fonts to package document (.opf file), garnishing the content documents (.xhtml files), etc. The newx step would normally be to zip all the files back into an EPUB and look at the result. I'd take notes of what needed to be change, went back to to EPUB constituint files and repeate the whole process a few times until I was statiesfied with the outcome.
+This new approach contrasts with my usual method for producing EPUB.
+`USE RECIPE ANALOGY AGAIN`
+In my previous approach I'd created a rough EPUB with pandoc, unzip it and then start to work with its constituint files &ndash; entering the metadata, resources such the stylesheet or fonts to package document (.opf file), garnishing the content documents (.xhtml files), etc. The newx step would normally be to zip all the files back into an EPUB and look at the result. I'd take notes of what needed to be change, went back to to EPUB constituint files and repeate the whole process a few times until I was statiesfied with the outcome.
 
 Although it worked, this approach was somehow unfocused. The amount of files I needed to work with was very large &ndash; in an EPUB content is split into multiple xhtml files, each corresponding to a chapter or section of the book &ndash; and the language I need to work with &ndash; HTML &ndash; although very powerfull and compreensible, because hard to read and edit when we are talking about chapter after chapter of text.
 
