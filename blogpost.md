@@ -3,7 +3,6 @@ title: make VolkskrantBuilding.epub
 ---
 <!--
  To do:
- * tidy scripts/epub_post.py - only fn remove
  * take photos create images
 -->
 
@@ -11,9 +10,8 @@ title: make VolkskrantBuilding.epub
 The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City by Boukje Cnossen and Sebastian Olma
 
 # make VolkskrantBuilding.epub Part I
-## Introducution
+## Introduction
 In this blog post I will describe the process that led to the creation of the publication [The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City]() (TVB) by Boukje Cnossen and Sebastian Olma, as a digital book in EPUB3 format. I will be paying special attention on the use of Markdown as source files, Pandoc as markup converter software, Git as revision system, and most importantly Makefiles. I will attempt to demonstrate how all these individual resources can be combined to form one, or several, simple and yet powerful recipes which can greatly simplify and speedup the development of an EPUB, from manuscript to its final publishable form.
-
 
 ## Premises
 From the onset we knew that TVB had to go from manustript to its two output format &ndash; EPUB and paper book &ndash; in little more than one week.
@@ -21,24 +19,7 @@ We were starting from good position. The manuscript, a .docx file, was in its fi
 
 Despite this advantage, the short time span available for the production of TVB was still a challenge. The design studio &ndash; [UNDOG](http://www.undog.nl/) &ndash responsible for the book's design and paper edition, was working on the identity of the book, at the same time that I was developing the EPUB. This meant I had to follow the studio's lead, wait for its work to be completed, and only then apply the same identity to the EPUB edition of the TVB. The choice for such dynamic, for the production of books in multiple formats is highly questionable, for many reasons, among them its inefficiency and imposition of top-down dynamic, instead of more collaborative and egalitarian approach between all of those involved in the creation of a book, but that is in itself subject for another blog post.
 
-> * He has treating the images, and creating the visual identity for the book
->    * I had to follow his lead, wait for his work to be done, 
->    * then: try to apply it to the EPUB
-> 
-> Although the text was 
-> * couple of days
-> * text was in its final form
-> * well formatted manuscript (reference Blog post)
-> * the short time span was challange
->    * designer of the book's paper edition was working at the same time as me
->    * He has treating the images, and creating the visual identity for the book
->    * I had to follow his lead, wait for his work to be done, 
->    * then: try to apply it to the EPUB
->    
-> Editor did great work at correctly formatting the manuscript
-
 ## the workflow
-### description
 For all these reasons the production of the EPUB called for a lean, organized and fast workflow. It had to be created in a much shorter time span and direct than I had experienced so far, with the production of the  [Network Notebooks EPUBS](http://networkcultures.org/publications/#netnotebook). I decided to try out the workflow that is being developed inside the Digital Publishing Toolkit Project and is currently being applied in the creation of the [Hybrid Publishing Toolkit for the Arts](https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Toolkit-for-the-Arts) publication.
 
 My usual method for creating EPUBs involves the following tools:
@@ -51,7 +32,7 @@ Yet, in addition to them I chose to also use a Makefile, much in a similar way a
 Here is how does the Makefile used in the production of TVB EPUB looks like:
 
 `
-VK.epub: 
+VolkskrantBuilding.epub: 
 	cd docs && pandoc \
 	--from markdown \
 	--to epub3 \
@@ -66,69 +47,61 @@ VK.epub:
 	--epub-embed-font=VAGRoundedStd-Light.otf \
 	--epub-embed-font=VAGRoundedStd-Thin.otf \
 	--default-image-extension png \
-	-o VK.epub \
+	-o VolkskrantBuilding.epub \
 	VK.md
 `
 
-With this recipe and all its ingredients in place I, I only had to run: `make VK.epub` and a a full-fledged EPUB was produced. 
-
-> by calling pandoc to convert from Markdown to EPUB3, in a self-contained way, with chapter breaks every heading with level 1, produce a table of contents with a depth up to level 2 headings, using th cover image ... 
-> X You can see that it ask pandoc not only to convert the markdown file VK.md into an EPUB3 format under the filename VK.epub, but that it indicates that supplies the EPUB withspecific cover image, metadata, s   
+With this recipe and all its ingredients in place I, I only had to run: `make VolkskrantBuilding.epub` and a a full-fledged EPUB was produced. 
 
 ### positive aspects   
 This approach, centered on a Makefile, became quite useful and sped-up the development of the EPUB.
-Its major strength relies in its ability to reduce my work focus to the source files. 
-It is as if the source files &ndash; the Markdown text files, images, metadata, CSS styles  &ndash; are the ingredients I need to cook this dish that is the EPUB.  
-If I want a specific result to come from the file recipe I will only need to change my ingredients and make the recipe with the command  `make VK.epub`
+Its major strength relies in its ability to reduce my work focus to the source files, and the makefile. 
+The source files &ndash; the Markdown text files, images, metadata, CSS styles &ndash; are the ingredients I need in order to cook this EPUB dish and the recipe is the makefile.  
+If I want a specific result, a spefic dish, to be produced I will need to change either my ingredients or my recipe  &ndash; the 2 focal points of this approach. 
+The cooking itself, or in other words the production of the EPUB, is realized in a matter of seconds though the execution of the makefile and its instructions via `make VolkskrantBuilding.epub`. 
+I then view the result and evaluate the result.
+If I happen to dislike the dish I just created, I can very simply adjust the ingredients or the recipe, in an attempt that the following EPUB dish, will be closer to my expectation.
+I iterate through this circle of fine-tuning ingredients and recipe, cooking, and tasting, until I arrive to a EPUB dish which I consider satisfactory. 
 
-This new approach contrasts with my usual method for producing EPUB.
-`USE RECIPE ANALOGY AGAIN`
-In my previous approach I'd created a rough EPUB with pandoc, unzip it and then start to work with its constituint files &ndash; entering the metadata, resources such the stylesheet or fonts to package document (.opf file), garnishing the content documents (.xhtml files), etc. The newx step would normally be to zip all the files back into an EPUB and look at the result. I'd take notes of what needed to be change, went back to to EPUB constituint files and repeate the whole process a few times until I was statiesfied with the outcome.
+The described approach contrasts with my usual method for producing EPUB.
+In latter case I create a rough EPUB with pandoc, unzip it and then start to work with its constituent files &ndash; editing the metadata in content.opf, the stylesheet, or the content .xhtml files. 
+Once all editing is done I zip all the files back into an EPUB and look at the result. 
+I evaluate the result, see what needs to be change, and  back to the unzipped EPUB constituent files, repeating the whole process a few more times until I am happy with the outcome.
+If I carry on with a culinary analogy I'd say that this approach would be like cooking with an already cooked dish. 
+The EPUB dish is in front of me, and what I do is to separate its different parts, such as the salad, the sauce, the main ingredient, change them individually, and then put them back together in a slightly different dish. Different iteration of this process are also necessary to arrive to a pleasing result. 
 
-Although it worked, this approach was somehow unfocused. The amount of files I needed to work with was very large &ndash; in an EPUB content is split into multiple xhtml files, each corresponding to a chapter or section of the book &ndash; and the language I need to work with &ndash; HTML &ndash; although very powerfull and compreensible, because hard to read and edit when we are talking about chapter after chapter of text.
+Although it works, this approach is somehow unfocused. I need to work with many HTML files, and although HTML is a powerful and yet simple markup language, it is unpleasant to either read or edit. It instinctively feels like a recipe for disaster when one edits large sections of text wrapped by countless HTML tags. 
 
-Using the makefile approach I started to work *only* with markdown source file, which contrarily to HTML are very easy to read and edit, and in this case was limited to one single file. And even in cases where I need to include more expressive elements into the text, such as the the red quotations blocks that permeate this publication, I kept working on the markdown source files, overcoming Markdown limitations by introducing snippets of HTML to accomplish these more elaborate job. ![A red quotation from The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City]()
+With the makefile approach I am spared from working with HTML. Instead I deal mostly with Markdown source files, which contrarily to HTML are easy to read and edit.
+Even in cases where I need to include more expressive sections to the text, which follow outside the capabilities of Markdown, such as the the red quotations blocks that permeate TVB EPUB, I kept working on the Markdown and introduced snippets of HTML to accomplish these more elaborate job. ![A red quotation from The Volkskrant Building: Manufacturing Difference in Amsterdam’s Creative City]()
 
-The distance between making a change and viewing that change became much shorter, creating an almost emmediate feedback loop between source files and compiled EPUB.  
+Thanks to both the easiness in which content can be changed, and promptly compiled in to an EPUB, the feedback loop between change and its effect on the EPUB became much shorter.
+In conjunction with Git, which tracks all the changes in both source files and the compiled EPUB, I was spared from having to creating many versions of the same files and could instead over-write all the files, knowing that at any time, I could revert my changes to a previous version ( or *revision* in Git parlance).
 
-And as I was using git to track all the changes in both source files and the compiled and the EPUB I was spared from having to creating many versions of the same files. Instead I would over-write all the files. If I need to revert my changes to a previous version, or *revision* in programmers parlance, I just need to ask Git to do it. 
 
-
-> *  Not much change: I kept using the same  tools
-
-> * Simple 
-> * Allows
->    * write elaborate conversions (css file, fonts, cover, metadata is speficied)
->    * a simple comand make VK.epub the epub is produce
->    * the same file and logic can be used to create convesions to other formats such as html, odf
->    * streams: inclusion of html 
 ### exceptions
-#### subs
-Now the downside of this approach is that it leaves one at the mercy of the conversion software used.
-Although Pandoc is and incredibly powerfull piece of software is not perfect, as I am afraid no piece of software is. 
-The way Pandoc does conversions is sometimes, specially in very small details, not the best.
-
+The downside of this approach is that it leaves one at the mercy of the conversion software used.
+Although Pandoc is an incredibly powerful piece of software, it is not perfect, as I am afraid no piece of software is. 
+Pandoc conversions, are sometimes, specially in very small details, not exactly what one might wish.
 An example of this is the way Pandoc handles footnote references in conversions to the EPUB3.
-In order to achieve a superscript footnote, Pandoc wraps the reference number in HTML superscript tags (`<sup>`), as in
+In outcomes of such conversion, superscript footnotes' reference numbers are wrapped by HTML superscript elements `<sup>`, as in
 `squatters movement.<a href="#fn2" class="footnoteRef" id="fnref2" epub:type="noteref"><sup>2</sup></a>`. 
-This behavious is understandble, as it is a simple way to archieve number marks that can be easily understood as footnotes.
-Yet it goes against the [accessibility guidelines](http://www.idpf.org/accessibility/guidelines/content/xhtml/notes.php) from the International Digital Publishing Forum, which state "Do not use the sup element to superscript note references, as it is redundant presentational tagging. The CSS vertical-align property can be set to superscript the a elements." Furthermore, they compromise the resposiveness of footnote references in the iPad's iBooks reader.
+This behavious is understandble, as it is a simple way to present the reader symbols that can easily be understood as footnotes.
+Yet it goes against the [accessibility guidelines](http://www.idpf.org/accessibility/guidelines/content/xhtml/notes.php) from the International Digital Publishing Forum, which state "Do not use the sup element to superscript note references, as it is redundant presentational tagging. The CSS vertical-align property can be set to superscript the a elements." Furthermore, they compromise the resposiveness of footnote references in the iPad's iBooks reader. 
+It is understandable that such an issue arises. EPUB3 specs are still in development and Pandoc is an open-source project of small dimensions, which probably has more pressing issues than to make the footnotes in EPUB3 conversions, respond well in the iPad reader. 
 
-However there is a solution for every problem, or more than one.
-The most obvious fix is to remove all the sup tags from the EPUB once this was create, this was what I did by through a [pyhton script](https://github.com/DigitalPublishingToolkit/VolkskrantBuilding/blob/master/scripts/epub_post.py). 
-The other solutions are directly related to the fact that Pandoc is Free/Open-Source Software, licensed under the [GNU General Public License version 2](http://www.gnu.org/licenses/gpl-2.0.html). The license clearly states that "You may modify your copy or copies of the Program or any portion of it". Which means that if you have the ability to do so you can change the way the program behaves, and can consequently alter the way footnote references are encoded in conversions to EPUB3.
-Another, more accessible approach is to go the central repository where the development takes place, and address this problem by [opening an issue](https://github.com/jgm/pandoc/issues?q=is%3Aissue+is%3Aopen).     
+Yet, one can do something about this issue. The most obvious fix is to remove all the sup tags from the EPUB once is created. 
+The other solutions are directly related to the fact that Pandoc is Free/Open-Source Software, licensed under the [GNU General Public License version 2](http://www.gnu.org/licenses/gpl-2.0.html). The license clearly states that "You may modify your copy or copies of the Program or any portion of it", which means that if one has the permission to alter the way footnote references are encoded in conversions to EPUB3, and other default behavior of Pandoc.
+It is also possible to visit the [central repository](https://github.com/jgm/pandoc) where the development of Pandoc takes place, and address this problem by [opening an issue](https://github.com/jgm/pandoc/issues?q=is%3Aissue+is%3Aopen), where it will be read and possibly considered by Pandoc's developers.     
 
-
-> * pandoc good
-> * but might do things, sometimes in ways one doesn't want
->     * otf fonts
-> 	* converts the footnotes wrapped in HTML `<sup>` 
 
 ### evaluation
-* powerfull, simple, fast way to create EPUBs
+In a nutshell Makefiles are useful and yet simple ways to optimize the development of an EPUB into recipes that can simplify the development of an EPUB and
+make the most out of the combination of small, simple and yet powerful pieces of software. 
+However this approach isn't perfect. It isn't a one-size-fits-all recipe that can be applied to the production each and every kind of EPUBs, as it produces nearly invisible artifacts that in some contexts can become disruptive. 
+Consequently the intervention of other approaches are essential to the creation of digital books. 
+I see this heterogeneity of approaches as essential, to promote experimentation and innovation in the creation of digital books. 
 
-* Not make, but the combination of these small, simple and yet powerfull pieces of software that allow the process of EPUB creation quite a straight-forwad business
 
 
 
