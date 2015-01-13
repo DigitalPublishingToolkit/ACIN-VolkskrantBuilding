@@ -4,7 +4,7 @@
 Creative City</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Amsterdam Creative Industries Publishing</dc:publisher>    
-<dc:date id="epub-date">November 2014</dc:date>
+<dc:date id="epub-date">2014-11</dc:date>
 <dc:language>en-US</dc:language>
 <dc:creator id="epub-creator-1">Boukje Cnossen</dc:creator>
 <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
