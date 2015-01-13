@@ -470,7 +470,7 @@ those former squatters as they are standing in front of the Volkskrant
 building in the afternoon of March 2007. Hein de Haan for instance, had become an associate
 professor in urban planning. Hay Schoolmeesters had worked as a cultural organizer on the NDSM-wharf, one of the city's formerly
 industrial wharfs, and Eric Duivenvoorden had published various books on
-the history of the squatters movement.[^9] Jaap Draaisma had worked as a civil servant for one of the city's boroughs. But while all of them are holding so-called 'decent jobs', each of them nonetheless continued to fight for the legalization
+the history of the squatters movement.[^9] Jaap Draaisma had worked as a civil servant for one of the city's boroughs. Fred Stammeshaus was something of a financial expert within the gang with extensive experience in setting up squats and other alternative venues in Amsterdam's city centre, such as the NDSM-wharf. But while all of them are holding so-called 'decent jobs', each of them nonetheless continued to fight for the legalization
 and protection of squatted places. Only they had resorted to more legal,
 and less tiresome, ways.
 
@@ -900,7 +900,7 @@ meetings was a strategic one. The underlying question was how they could
 get the city back for the subculture they represented. The organizers
 called themselves De Vrije Ruimte [open space], and among them were the
 eventual founders of Urban Resort: Hessel Dokkum, Eric Duivenvoorden,
-Hay Schoolmeesters, Jaap Draaisma, Fred Stammeshaus and Hein de Haan.
+Hay Schoolmeesters, Jaap Draaisma, Fred Stammeshaus, Hein de Haan, and Ben Kremer.
 When the organizers criticized the city's ongoing attempts to set up art
 factories, alderman Duco Stadig challenged them to set up their own
 space. During this evening, the idea of finding an empty building and
@@ -911,8 +911,7 @@ that, Urban Resort was established as a not-for-profit foundation.
 
 The former squatters realized they had to find a building and Jaap
 Schoufour, head of the Art Factory Bureau, suggested the Volkskrant
-building. Negotiations with the owner of the building took up to six
-months and the Art Factory Bureau played no part in this except for
+building. Negotiations by Fred Stammeshaus and Jaap Draaisma with the owner of the building took up to six month and the Art Factory Bureau played no part in this except for
 looking at the rental contract. Jaap recalls they were very keen on the
 city government not to be included in the Volkskrant building project.
 ‘The deal was to have the owner invest 400.000 euro into our project.
@@ -1169,10 +1168,10 @@ him and his friends that he postponed his own graduation from art school
 in order to work on the plan for his group. He remembers, quite vividly,
 the method Kaos Projects applied. ‘They made us do some exercises, they
 would ask us things like “what if you are all standing around a swimming
-pool, would you dare jump in together”?. It was some weird stuff, but
-all I was thinking was that I wanted a place in the building’.
+pool, would you dare jump in together”? It was some weird stuff, but
+all I was thinking was that I wanted a place in the building.’ 
 
-While Kaos Projects believed that group dynamics would do their work,
+In the first half year, the whole Urban Resort posse consisting of Fred, Eric, Bas, Hein and others put a lot of unremunerated energy into building the organization. While Kaos Projects believed that group dynamics would do their work,
 and the community could take shape organically, it also became apparent
 that the Volkskrant building project had to deal with some serious
 practical problems that needed active management. One of those problems
@@ -1288,7 +1287,7 @@ denied entrance. Some of us stood up behind the tables, in case things
 got violent. Eventually, the tenants who had paid joined us out of
 curiosity’. Six of these ‘car washes’ happened; most of them during
 office hours and some of them at night to catch those who had been
-avoiding them.
+avoiding them. The financial survival of Urban Resort was also due to the administrative efforts of Fred Stammeshaus, who in 2008 became Urban Resort’s interim financial director. 
 
 ## The First Outbursts of Creativity
 
